@@ -12,7 +12,7 @@ return {
     "ibhagwan/fzf-lua",
     dependencies = { "nvim-tree/nvim-web-devicons" },
     opts = {
-        "bordered-fused",
+        "border-fused",
         fzf_colors = true,
     }
 }

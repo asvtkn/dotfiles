@@ -12,3 +12,5 @@ dependencies:
 - tmux
 - ripgrep
 - fzf
+- tree-sitter-cli
+
