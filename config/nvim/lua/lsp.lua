@@ -15,6 +15,7 @@ lsp_list = {
     "ts_ls",
     "clangd",
     "jqls"
+    -- html (with emmet and autotag)
 }
 
 require("mason").setup()
