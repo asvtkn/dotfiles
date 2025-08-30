@@ -23,7 +23,7 @@ return {
                     keywords = { italic = false },
                 },
                 on_highlights = function(highlights, colors)
-                    highlights.IlluminatedWordText = { underline = true, fg = "#000000"}
+                    highlights.IlluminatedWordText = { underline = true, fg = "#000000" }
                     highlights.IlluminatedWordRead = { underline = true, fg = "#000000" }
                     highlights.IlluminatedWordWrite = { underline = true, fg = "#000000" }
                 end,
