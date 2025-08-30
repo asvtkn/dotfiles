@@ -10,6 +10,16 @@ vim.keymap.set('n', '<leader>ez', ":e ~/.zshrc<cr>")
 vim.keymap.set('n', '<leader>ee', ":e ~/dotfiles<cr>")
 vim.keymap.set('n', '<leader>en', ":Oil ~/dotfiles/note.txt<cr>")
 
+-- projects
+vim.keymap.set('n', '<leader>e1', ":e ~/code/projects/ts-diag/<cr>")
+vim.keymap.set('n', '<leader>e2', ":e ~/code/src/stall_guru/<cr>")
+
+
+vim.keymap.set('n', '<leader>1', ":Lazy<cr>")
+vim.keymap.set('n', '<leader>2', ":FzfLua<cr>")
+vim.keymap.set('n', '<leader>3', ":Mason<cr>")
+vim.keymap.set('n', '<leader>/', ":Oil<cr>")
+vim.keymap.set('n', "<leader>t", ":Neotree toggle right<cr>")
 
 -- alternate file with backspace
 vim.keymap.set('n', '<backspace>', '<c-^>')
@@ -88,9 +98,6 @@ vim.keymap.set('n', '<c-p>', 'ddkP')
 
 --
 --
-vim.keymap.set('n', '<leader>l', ":Lazy<cr>")
-vim.keymap.set('n', '<leader>/', ":Oil<cr>")
-vim.keymap.set('n', "<leader>t", ":Neotree toggle right<cr>")
 
 
 vim.keymap.set('n', '<leader>f', ":FzfLua live_grep<cr>")
@@ -105,6 +112,7 @@ vim.keymap.set('n', '<leader>b', ":FzfLua buffers<cr>")
 
 -- zen-node.nvim
 vim.keymap.set('n', '<leader>z', ":ZenMode<cr>")
+
 
 
 -- fzf-lua
