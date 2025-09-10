@@ -14,7 +14,9 @@ lsp_list = {
     "pyright",
     "ts_ls",
     "clangd",
-    "jqls"
+    "jqls",
+    "java_language_server"
+
     -- html (with emmet and autotag)
 }
 

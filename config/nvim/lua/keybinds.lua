@@ -43,7 +43,7 @@ vim.keymap.set('n', '<c-j>', '<c-w>j')
 vim.keymap.set('n', '<c-k>', '<c-w>k')
 vim.keymap.set('n', '<c-l>', '<c-w>l')
 
--- < and > to navigate buffers 
+-- < and > to navigate buffers
 vim.keymap.set('n', '<c-,>', ':bprev<CR>', { noremap = true, silent = true })
 vim.keymap.set('n', '<c-.>', ':bnext<CR>', { noremap = true, silent = true })
 
@@ -61,19 +61,16 @@ vim.keymap.set('v', 'y', '"+y')
 vim.keymap.set('v', 'd', '"+d')
 vim.keymap.set('n', 'yy', '"+yy')
 
-vim.api.nvim_create_autocmd({ "BufEnter", "BufWinEnter" }, {
-  pattern = { "oil://*" },
-  callback = function()
-    vim.keymap.set("n", "<leader>cd", "<cmd>norm ~<cr>")
-    -- vim.keymap.set("n", "h", "~", { buffer = 0 })
-    -- vim.keymap.set('n', '<leader>cd', '~')
-  end,
-})
--- change current directory to current file
--- if vim.bo.filetype == "oil" then
---     vim.keymap.set('n', '<leader>cd', '~')
--- end
--- vim.keymap.set('n', '<leader>cd', ':cd %:p:h<CR>:pwd<cr>')
+-- change directory
+vim.keymap.set('n', '<leader>cd', function()
+    if vim.startswith(vim.api.nvim_buf_get_name(0), "oil://") then
+        vim.cmd("norm ~")
+    else
+        vim.cmd("cd %:p:h")
+        vim.cmd("pwd")
+    end
+end)
+
 
 -- type • faster
 vim.keymap.set('i', '<A-8>', '•', { noremap = true, silent = true })
@@ -96,19 +93,25 @@ vim.keymap.set('n', '<c-p>', 'ddkP')
 -- vim.keymap.set('n', '<leader>fb', builtin.buffers, { desc = 'Telescope buffers' })
 -- vim.keymap.set('n', '<leader>fh', builtin.help_tags, { desc = 'Telescope help tags' })
 
---
---
+
+-- toggle search highlight
+vim.keymap.set('n', '<leader><leader>h',
+    function()
+        vim.v.hlsearch = vim.v.hlsearch ~= 1
+        vim.notify("hlsearch: " .. (vim.v.hlsearch == 1 and "on" or "off"))
+    end
+)
 
 
-vim.keymap.set('n', '<leader>f', ":FzfLua live_grep<cr>")
+-- vim.keymap.set('n', '<leader>f', ":FzfLua live_grep<cr>")
 vim.keymap.set('n', '<leader>o', ":FzfLua files<cr>")
-vim.keymap.set('n', '<leader>b', ":FzfLua buffers<cr>")
+-- vim.keymap.set('n', '<leader>b', ":FzfLua buffers<cr>")
 
 -- persisted.nvim
--- vim.keymap.set('n', '<leader>ss', ':SessionSave ') 
--- vim.keymap.set('n', '<leader>sl', ':SessionSearch<cr>') 
--- vim.keymap.set('n', '<leader>sr', ':SessionRestore ') 
--- vim.keymap.set('n', '<leader>sd', ':SessionDelete ') 
+-- vim.keymap.set('n', '<leader>ss', ':SessionSave ')
+-- vim.keymap.set('n', '<leader>sl', ':SessionSearch<cr>')
+-- vim.keymap.set('n', '<leader>sr', ':SessionRestore ')
+-- vim.keymap.set('n', '<leader>sd', ':SessionDelete ')
 
 -- zen-node.nvim
 vim.keymap.set('n', '<leader>z', ":ZenMode<cr>")
@@ -117,60 +120,34 @@ vim.keymap.set('n', '<leader>z', ":ZenMode<cr>")
 
 -- fzf-lua
 vim.keymap.set({ "i" }, "<C-x><C-f>",
-function()
-    require("fzf-lua").complete_file({
-        cmd = "rg --files",
-        winopts = { preview = { hidden = true } }
-    })
-end, { silent = true, desc = "Fuzzy complete file" })
+    function()
+        require("fzf-lua").complete_file({
+            cmd = "rg --files",
+            winopts = { preview = { hidden = true } }
+        })
+    end, { silent = true, desc = "Fuzzy complete file" })
 
-
--- vim.keymap.set('n', '<leader>sl',
--- function()
---     local sessions = require('persistence').select()  
---     require'fzf-lua'.fzf_exec(sessions, {
---         actions = {
---             -- Use fzf-lua builtin actions or your own handler
---             ['default'] = require'fzf-lua'.actions.file_edit,
---             ['ctrl-y'] = function(selected, opts)
---                 print("selected item:", selected[1])
---                 (:SessionDelete selected[1])
---             end
---         }
---     })
--- end,  { silent = true}) 
---
---
---
---
---
 -- LSP
---
--- local opts = { silent = true }
-
--- Essential LSP keymaps
-vim.keymap.set("n", "gd", vim.lsp.buf.definition)
-vim.keymap.set("n", "gD", vim.lsp.buf.declaration)
-vim.keymap.set("n", "gi", vim.lsp.buf.implementation)
-vim.keymap.set("n", "gr", vim.lsp.buf.references)
-vim.keymap.set("n", "K", vim.lsp.buf.hover)
--- vim.keymap.set("n", "<C-k>", vim.lsp.buf.signature_help)
-vim.keymap.set("n", "<leader>rn", vim.lsp.buf.rename)
-vim.keymap.set("n", "<leader>ca", vim.lsp.buf.code_action)
+vim.keymap.set("n", "<leader>ld", vim.lsp.buf.definition)
+vim.keymap.set("n", "<leader>lD", vim.lsp.buf.declaration)
+vim.keymap.set("n", "<leader>li", vim.lsp.buf.implementation)
+vim.keymap.set("n", "<leader>lr", vim.lsp.buf.references)
+vim.keymap.set("n", "<leader>lh", vim.lsp.buf.hover)
+vim.keymap.set("n", "<leader>lk", vim.lsp.buf.signature_help)
+vim.keymap.set("n", "<leader>lR", vim.lsp.buf.rename)
+vim.keymap.set("n", "<leader>la", vim.lsp.buf.code_action)
 vim.keymap.set("n", "<leader><leader>f", function()
     vim.lsp.buf.format({ async = true })
 end)
-
 -- Diagnostic keymaps
 vim.keymap.set("n", "<leader>n", function()
-  vim.diagnostic.jump({count = 1, float = true})
+    vim.diagnostic.jump({ count = 1, float = true })
 end)
 
 vim.keymap.set("n", "<leader>p", function()
-  vim.diagnostic.jump({count = -1, float = true})
+    vim.diagnostic.jump({ count = -1, float = true })
 end)
 -- vim.keymap.set("n", "<leader>n", vim.diagnostic.jump({count=1, float=true}))
 -- vim.keymap.set("n", "<leader>p", vim.diagnostic.jump({count=-1, float=true}))
 vim.keymap.set("n", "<leader>d", vim.diagnostic.open_float)
 vim.keymap.set("n", "<leader>q", vim.diagnostic.setloclist)
-
