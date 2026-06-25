@@ -1,3 +1,5 @@
 .DS_Store
 .config/nvim/lazy-lock.json
 config/nvim/lazy-lock.json
+.obsidian/
+.stfolder
