@@ -1,47 +1,4 @@
 {
-  "workspace:close-others": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "W"
-    }
-  ],
-  "file-explorer:new-file": [],
-  "daily-notes": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "D"
-    }
-  ],
-  "editor:delete-paragraph": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "D"
-    }
-  ],
-  "editor:swap-line-down": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
-  "editor:swap-line-up": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowUp"
-    }
-  ],
   "app:go-back": [
     {
       "modifiers": [
@@ -72,72 +29,12 @@
       "key": "]"
     }
   ],
-  "editor:open-link-in-new-leaf": [
+  "daily-notes": [
     {
       "modifiers": [
         "Ctrl"
       ],
-      "key": "]"
-    }
-  ],
-  "app:reload": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "R"
-    }
-  ],
-  "editor:toggle-fold": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "F"
-    }
-  ],
-  "editor:toggle-highlight": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "U"
-    }
-  ],
-  "zk-prefixer": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "N"
-    }
-  ],
-  "obsidian-excalidraw-plugin:excalidraw-autocreate-on-current": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "E"
-    }
-  ],
-  "canvas:new-file": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "C"
-    }
-  ],
-  "editor:toggle-checklist-status": [],
-  "zen:toggle": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Z"
+      "key": "T"
     }
   ],
   "app:toggle-left-sidebar": [
@@ -156,12 +53,28 @@
       "key": "]"
     }
   ],
-  "editor:insert-link": [
+  "editor:swap-line-down": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "L"
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "app:switch-vault": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "V"
     }
   ],
   "editor:cycle-list-checklist": [
@@ -172,13 +85,19 @@
       "key": "Enter"
     }
   ],
-  "file-explorer:new-file-in-new-pane": [],
-  "workspace:split-vertical": [
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Meta",
+        "Shift"
+      ],
+      "key": "]"
+    },
     {
       "modifiers": [
         "Ctrl"
       ],
-      "key": "'"
+      "key": "Tab"
     }
   ],
   "workspace:split-horizontal": [
@@ -189,137 +108,12 @@
       "key": "/"
     }
   ],
-  "app:open-vault": [
+  "workspace:split-vertical": [
     {
       "modifiers": [
         "Ctrl"
       ],
-      "key": "V"
-    }
-  ],
-  "pane-relief:open-new-window": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "N"
-    }
-  ],
-  "editor:focus-left": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "H"
-    }
-  ],
-  "editor:focus-right": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "L"
-    }
-  ],
-  "editor:focus-bottom": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "J"
-    }
-  ],
-  "editor:focus-top": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "K"
-    }
-  ],
-  "editor:focus": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": ";"
-    }
-  ],
-  "obsidian-prozen:zenmode": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Z"
-    }
-  ],
-  "obsidian-focus-mode:toggle-super-focus-mode": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "Z"
-    }
-  ],
-  "obsidian-focus-mode:toggle-focus-mode": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Z"
-    }
-  ],
-  "obsidian-fullscreen-plugin:fullscreen-focus": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Z"
-    }
-  ],
-  "workspace:move-to-new-window": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "N"
-    }
-  ],
-  "obsidian-hider:toggle-tab-containers": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "T"
-    }
-  ],
-  "editor:toggle-strikethrough": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "`"
-    }
-  ],
-  "file-explorer:move-file": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "M"
-    }
-  ],
-  "note-composer:split-file": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "X"
+      "key": "'"
     }
   ]
 }
