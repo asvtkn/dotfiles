@@ -1,0 +1,1 @@
+{"path":"@/Pasted Image 20260226164042_535.png","text":"Deprecations\nThe following configuration timeout options MUST be deprecated in favor of timeoutMs :\n• socketTimeoutMS\n• waitQueueTimeoutMS\n• wTimeoutMS\nThe following options for CRUD methods MUST be deprecated in favor of timeoutMS :\n• maxTimeMS\n• maxCommitTimeMS\n","libVersion":"0.5.0","langs":""}

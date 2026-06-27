@@ -1,0 +1,1 @@
+{"path":"research/mongotune/@/Pasted image 20260129134859.png","text":"• Only Ingress Rate Limiting (operation limiting) uses the 10-sample history buffer.\nPolicy\nIngress Rate Limiting\nConnection Rate Limiting\nDisk Write Blocking\nHistory\n10 samples (all must exceed threshold)\nSingle tick\nSingle tick\n","libVersion":"0.5.0","langs":""}

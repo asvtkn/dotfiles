@@ -1,0 +1,15 @@
+[
+  {
+    "fileName": "Welcome",
+    "relativePath": "Welcome.md",
+    "links": [
+      {
+        "link": "create a link"
+      }
+    ]
+  },
+  {
+    "fileName": "2026-06-25",
+    "relativePath": "days/2026-06-25.md"
+  }
+]

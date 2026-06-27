@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Untitled.canvas",
+    "basename": "Untitled",
+    "relativePath": "Untitled.canvas"
+  },
+  {
+    "name": "✱ My Tasks.canvas",
+    "basename": "✱ My Tasks",
+    "relativePath": "✱ My Tasks.canvas"
+  },
+  {
+    "name": "✱ Tools.canvas",
+    "basename": "✱ Tools",
+    "relativePath": "✱ Tools.canvas"
+  },
+  {
+    "name": "✱ Watch List.canvas",
+    "basename": "✱ Watch List",
+    "relativePath": "✱ Watch List.canvas"
+  },
+  {
+    "name": "finance.canvas",
+    "basename": "finance",
+    "relativePath": "0x/finance.canvas"
+  },
+  {
+    "name": "research_change_streams.canvas",
+    "basename": "research_change_streams",
+    "relativePath": "research/change_streams/research_change_streams.canvas"
+  },
+  {
+    "name": "claude_skills.canvas",
+    "basename": "claude_skills",
+    "relativePath": "research/claude_skills/claude_skills.canvas"
+  },
+  {
+    "name": "claude on mongotune.canvas",
+    "basename": "claude on mongotune",
+    "relativePath": "research/mongotune/claude on mongotune.canvas"
+  },
+  {
+    "name": "mongotune map.canvas",
+    "basename": "mongotune map",
+    "relativePath": "research/mongotune/mongotune map.canvas"
+  },
+  {
+    "name": "✱ Rate Limiters.canvas",
+    "basename": "✱ Rate Limiters",
+    "relativePath": "research/mongotune/✱ Rate Limiters.canvas"
+  },
+  {
+    "name": "Untitled.canvas",
+    "basename": "Untitled",
+    "relativePath": "research/rate_limiters/Untitled.canvas"
+  },
+  {
+    "name": "Untitled.canvas",
+    "basename": "Untitled",
+    "relativePath": "research/sharding_readPreference/Untitled.canvas"
+  },
+  {
+    "name": "transactions.canvas",
+    "basename": "transactions",
+    "relativePath": "research/transactions/transactions.canvas"
+  }
+]

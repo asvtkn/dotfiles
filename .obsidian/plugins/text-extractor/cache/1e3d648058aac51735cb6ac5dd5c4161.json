@@ -1,0 +1,1 @@
+{"path":"research/mongotune/@/Pasted image 20260129134843.png","text":"• Decision Rules (Revised)\nDECREASE rate limit when:\nCPU idle < 10%\nAND\nConnection rate > 0.5 x multiplier × cores (any elevated rate)\nINCREASE rate limit when:\n(d_rejected > O OR d\n_queued > 0) - any new rejections or queuing this tick\nAND\nCPU idle ≥ 20%\n","libVersion":"0.5.0","langs":""}

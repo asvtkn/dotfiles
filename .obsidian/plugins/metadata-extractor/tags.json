@@ -1,0 +1,96 @@
+[
+  {
+    "tag": "eol-questions",
+    "tagCount": 1,
+    "relativePaths": [
+      "research/realm/EOL Compendium.md"
+    ]
+  },
+  {
+    "tag": "excalidraw",
+    "tagCount": 46,
+    "relativePaths": [
+      "research/rate_limiters/Drawing 2026-04-28 14.47.54.excalidraw.md",
+      "research/mongotune/mongotune in Atlas.md",
+      "research/mongotune/mongotune drawings.md",
+      "research/mongotune/Drawing 2026-01-16 13.57.36.md",
+      "Excalidraw/more.../transaction context deadline.excalidraw.md",
+      "Excalidraw/more.../timeseries + sharding.excalidraw.md",
+      "Excalidraw/more.../remaining timeout.excalidraw.md",
+      "Excalidraw/more.../index tree.excalidraw.md",
+      "Excalidraw/more.../data bearing voters.excalidraw.md",
+      "Excalidraw/more.../common trigger issues.excalidraw.md",
+      "Excalidraw/more.../changesets construction.excalidraw.md",
+      "Excalidraw/more.../call notes - 01444626.excalidraw.md",
+      "Excalidraw/more.../azure entra.excalidraw.md",
+      "Excalidraw/more.../Workday VPCs.excalidraw.md",
+      "Excalidraw/more.../TLS flow.excalidraw.md",
+      "Excalidraw/more.../01534125.excalidraw.md",
+      "Excalidraw/more.../01533253.excalidraw.md",
+      "Excalidraw/more.../01523757.excalidraw.md",
+      "Excalidraw/more.../01506009.excalidraw.md",
+      "Excalidraw/more.../01447541.excalidraw.md",
+      "Excalidraw/01579453.md",
+      "Excalidraw/power set aggregation.md",
+      "Excalidraw/tsdiag/TSDIAG.excalidraw.md",
+      "Excalidraw/tsdiag/TSDIAG code map.excalidraw.md",
+      "Excalidraw/stale reads (doron).md",
+      "Excalidraw/slides/LnL.excalidraw.md",
+      "Excalidraw/slides/CSOT Lunch and Learn.excalidraw.md",
+      "Excalidraw/demos/canvas - data bearing voters.excalidraw.md",
+      "Excalidraw/demos/canvas - 01534125 - canvas.excalidraw.md",
+      "Excalidraw/demos/call 01506009.excalidraw.md",
+      "Excalidraw/demos/3 sequence - 01447541.excalidraw.md",
+      "Excalidraw/demos/2 sequence - transaction context deadline.excalidraw.md",
+      "Excalidraw/demos/1 canvas - timeseries + sharding.excalidraw.md",
+      "Excalidraw/Drawing 2026-01-16 13.57.36.md",
+      "Excalidraw/mongotune in Atlas.md",
+      "Excalidraw/mongotune drawings.md",
+      "Excalidraw/localThresholdMS.md",
+      "Excalidraw/cesar case 01577894 verato excalidraw.md",
+      "Excalidraw/Drawing 2026-06-10 20.37.45.excalidraw.md",
+      "Excalidraw/4 nodes and 1 arbiter.md",
+      "Excalidraw/Drawing 2026-06-03 11.24.54.excalidraw.md",
+      "Excalidraw/Drawing 2026-04-25 11.38.13.excalidraw.md",
+      "Excalidraw/Drawing 2026-04-23 14.12.55.excalidraw.md",
+      "Excalidraw/Drawing 2026-03-15 21.50.27.excalidraw.md",
+      "Excalidraw/Drawing 2026-02-11 13.49.59.md",
+      "Excalidraw/01563054.md"
+    ]
+  },
+  {
+    "tag": "ts-experts-mongotune",
+    "tagCount": 1,
+    "relativePaths": [
+      "research/mongotune/kba/IWM-troubleshooting-internal.md"
+    ]
+  },
+  {
+    "tag": "daily",
+    "tagCount": 1,
+    "relativePaths": [
+      "days/archive/March 21.md"
+    ]
+  },
+  {
+    "tag": "rr",
+    "tagCount": 1,
+    "relativePaths": [
+      "days/2026-05-09.md"
+    ]
+  },
+  {
+    "tag": "review",
+    "tagCount": 1,
+    "relativePaths": [
+      "cases/Archive (2025)/Shard drain blocked due to migration failures.md"
+    ]
+  },
+  {
+    "tag": "citigroup",
+    "tagCount": 1,
+    "relativePaths": [
+      "cases/Archive (2025)/01549075.md"
+    ]
+  }
+]

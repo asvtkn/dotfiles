@@ -1,0 +1,4747 @@
+{
+  "folders": [
+    {
+      "name": "",
+      "relativePath": "/"
+    },
+    {
+      "name": "-",
+      "relativePath": "-"
+    },
+    {
+      "name": "0x",
+      "relativePath": "0x"
+    },
+    {
+      "name": "2026 new laptop setup",
+      "relativePath": "2026 new laptop setup"
+    },
+    {
+      "name": "@",
+      "relativePath": "@"
+    },
+    {
+      "name": "Excalidraw",
+      "relativePath": "Excalidraw"
+    },
+    {
+      "name": "MISC",
+      "relativePath": "MISC"
+    },
+    {
+      "name": "cases",
+      "relativePath": "cases"
+    },
+    {
+      "name": "days",
+      "relativePath": "days"
+    },
+    {
+      "name": "projects",
+      "relativePath": "projects"
+    },
+    {
+      "name": "research",
+      "relativePath": "research"
+    },
+    {
+      "name": "snippets",
+      "relativePath": "snippets"
+    },
+    {
+      "name": "demos",
+      "relativePath": "Excalidraw/demos"
+    },
+    {
+      "name": "more...",
+      "relativePath": "Excalidraw/more..."
+    },
+    {
+      "name": "slides",
+      "relativePath": "Excalidraw/slides"
+    },
+    {
+      "name": "tsdiag",
+      "relativePath": "Excalidraw/tsdiag"
+    },
+    {
+      "name": "Archive (2025)",
+      "relativePath": "cases/Archive (2025)"
+    },
+    {
+      "name": "case_precedent",
+      "relativePath": "projects/case_precedent"
+    },
+    {
+      "name": "splunk_alert_davita",
+      "relativePath": "projects/splunk_alert_davita"
+    },
+    {
+      "name": "training_grounds",
+      "relativePath": "projects/training_grounds"
+    },
+    {
+      "name": "tsdiag",
+      "relativePath": "projects/tsdiag"
+    },
+    {
+      "name": "archive",
+      "relativePath": "days/archive"
+    },
+    {
+      "name": "Avalara",
+      "relativePath": "research/Avalara"
+    },
+    {
+      "name": "__llm outputs",
+      "relativePath": "research/__llm outputs"
+    },
+    {
+      "name": "app_services",
+      "relativePath": "research/app_services"
+    },
+    {
+      "name": "atlas_search",
+      "relativePath": "research/atlas_search"
+    },
+    {
+      "name": "change_streams",
+      "relativePath": "research/change_streams"
+    },
+    {
+      "name": "claude_skills",
+      "relativePath": "research/claude_skills"
+    },
+    {
+      "name": "core",
+      "relativePath": "research/core"
+    },
+    {
+      "name": "core mongodb 2024",
+      "relativePath": "research/core mongodb 2024"
+    },
+    {
+      "name": "mongotune",
+      "relativePath": "research/mongotune"
+    },
+    {
+      "name": "rate_limiters",
+      "relativePath": "research/rate_limiters"
+    },
+    {
+      "name": "realm",
+      "relativePath": "research/realm"
+    },
+    {
+      "name": "sharding_readPreference",
+      "relativePath": "research/sharding_readPreference"
+    },
+    {
+      "name": "transactions",
+      "relativePath": "research/transactions"
+    },
+    {
+      "name": "wiredtiger",
+      "relativePath": "research/wiredtiger"
+    },
+    {
+      "name": "local setup",
+      "relativePath": "snippets/local setup"
+    },
+    {
+      "name": "Attachments",
+      "relativePath": "cases/Archive (2025)/Attachments"
+    },
+    {
+      "name": "Archive",
+      "relativePath": "projects/tsdiag/Archive"
+    },
+    {
+      "name": "Attachments",
+      "relativePath": "days/archive/Attachments"
+    },
+    {
+      "name": "Attachments",
+      "relativePath": "research/app_services/Attachments"
+    },
+    {
+      "name": "Attachments",
+      "relativePath": "research/change_streams/Attachments"
+    },
+    {
+      "name": "Attachments",
+      "relativePath": "research/core mongodb 2024/Attachments"
+    },
+    {
+      "name": "@",
+      "relativePath": "research/mongotune/@"
+    },
+    {
+      "name": "kba",
+      "relativePath": "research/mongotune/kba"
+    },
+    {
+      "name": "mongotune",
+      "relativePath": "research/mongotune/mongotune"
+    },
+    {
+      "name": "trigger-scripts",
+      "relativePath": "research/mongotune/trigger-scripts"
+    },
+    {
+      "name": "local_mongotune",
+      "relativePath": "research/rate_limiters/local_mongotune"
+    },
+    {
+      "name": "client",
+      "relativePath": "research/sharding_readPreference/client"
+    },
+    {
+      "name": "logs",
+      "relativePath": "research/sharding_readPreference/logs"
+    },
+    {
+      "name": "Attachments",
+      "relativePath": "research/realm/Attachments"
+    },
+    {
+      "name": "Attachments",
+      "relativePath": "projects/tsdiag/Archive/Attachments"
+    },
+    {
+      "name": "crates",
+      "relativePath": "research/mongotune/mongotune/crates"
+    },
+    {
+      "name": "docs",
+      "relativePath": "research/mongotune/mongotune/docs"
+    },
+    {
+      "name": "scripts",
+      "relativePath": "research/mongotune/mongotune/scripts"
+    },
+    {
+      "name": "node_modules",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules"
+    },
+    {
+      "name": "atlas-load-test",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test"
+    },
+    {
+      "name": "demo",
+      "relativePath": "research/rate_limiters/local_mongotune/demo"
+    },
+    {
+      "name": "diagnostics",
+      "relativePath": "research/rate_limiters/local_mongotune/diagnostics"
+    },
+    {
+      "name": "source_code",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code"
+    },
+    {
+      "name": "node_modules",
+      "relativePath": "research/sharding_readPreference/client/node_modules"
+    },
+    {
+      "name": "mongodb-logfiles_atlas-ixnr30-mongos-0_2026-04-04T0212Z",
+      "relativePath": "research/sharding_readPreference/logs/mongodb-logfiles_atlas-ixnr30-mongos-0_2026-04-04T0212Z"
+    },
+    {
+      "name": "mongodb-logfiles_atlas-ixnr30-mongos-1_2026-04-04T0212Z",
+      "relativePath": "research/sharding_readPreference/logs/mongodb-logfiles_atlas-ixnr30-mongos-1_2026-04-04T0212Z"
+    },
+    {
+      "name": "mongodb-logfiles_atlas-ixnr30-mongos-2_2026-04-04T0212Z",
+      "relativePath": "research/sharding_readPreference/logs/mongodb-logfiles_atlas-ixnr30-mongos-2_2026-04-04T0212Z"
+    },
+    {
+      "name": "mongodb-logfiles_atlas-ixnr30-mongos-3_2026-04-04T0212Z",
+      "relativePath": "research/sharding_readPreference/logs/mongodb-logfiles_atlas-ixnr30-mongos-3_2026-04-04T0212Z"
+    },
+    {
+      "name": "mongodb-logfiles_atlas-ixnr30-mongos-4_2026-04-04T0213Z",
+      "relativePath": "research/sharding_readPreference/logs/mongodb-logfiles_atlas-ixnr30-mongos-4_2026-04-04T0213Z"
+    },
+    {
+      "name": "mongodb-logfiles_atlas-ixnr30-mongos-5_2026-04-04T0213Z",
+      "relativePath": "research/sharding_readPreference/logs/mongodb-logfiles_atlas-ixnr30-mongos-5_2026-04-04T0213Z"
+    },
+    {
+      "name": "threshold0",
+      "relativePath": "research/sharding_readPreference/logs/threshold0"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/docs/src"
+    },
+    {
+      "name": "ftdc-io",
+      "relativePath": "research/mongotune/mongotune/crates/ftdc-io"
+    },
+    {
+      "name": "metrics-exporter-ftdc",
+      "relativePath": "research/mongotune/mongotune/crates/metrics-exporter-ftdc"
+    },
+    {
+      "name": "metrics-exporter-otlp",
+      "relativePath": "research/mongotune/mongotune/crates/metrics-exporter-otlp"
+    },
+    {
+      "name": "metrics-exporter-util",
+      "relativePath": "research/mongotune/mongotune/crates/metrics-exporter-util"
+    },
+    {
+      "name": "mockable-clock",
+      "relativePath": "research/mongotune/mongotune/crates/mockable-clock"
+    },
+    {
+      "name": "mongotune",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune"
+    },
+    {
+      "name": "mongotune-auto-restart",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-auto-restart"
+    },
+    {
+      "name": "mongotune-core",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-core"
+    },
+    {
+      "name": "mongotune-disk-write-blocking",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-disk-write-blocking"
+    },
+    {
+      "name": "mongotune-dynamic-connection-establishment-rate-limiting",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-dynamic-connection-establishment-rate-limiting"
+    },
+    {
+      "name": "mongotune-dynamic-eviction-worker",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-dynamic-eviction-worker"
+    },
+    {
+      "name": "mongotune-dynamic-rate-limiting-ingress",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-dynamic-rate-limiting-ingress"
+    },
+    {
+      "name": "mongotune-example-policy",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-example-policy"
+    },
+    {
+      "name": "mongotune-execution-control",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-execution-control"
+    },
+    {
+      "name": "mongotune-macros",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-macros"
+    },
+    {
+      "name": "mongotune-query-sentinel",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-query-sentinel"
+    },
+    {
+      "name": "mongotune-tcmalloc-release-rate",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-tcmalloc-release-rate"
+    },
+    {
+      "name": "mongotune-test-util",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-test-util"
+    },
+    {
+      "name": "server-status",
+      "relativePath": "research/mongotune/mongotune/crates/server-status"
+    },
+    {
+      "name": "signal-dwell-time",
+      "relativePath": "research/mongotune/mongotune/crates/signal-dwell-time"
+    },
+    {
+      "name": "tracing-logv2",
+      "relativePath": "research/mongotune/mongotune/crates/tracing-logv2"
+    },
+    {
+      "name": "@mongodb-js",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/@mongodb-js"
+    },
+    {
+      "name": "@types",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/@types"
+    },
+    {
+      "name": "bson",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/bson"
+    },
+    {
+      "name": "memory-pager",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/memory-pager"
+    },
+    {
+      "name": "mongodb",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb"
+    },
+    {
+      "name": "mongodb-connection-string-url",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb-connection-string-url"
+    },
+    {
+      "name": "punycode",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/punycode"
+    },
+    {
+      "name": "sparse-bitfield",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/sparse-bitfield"
+    },
+    {
+      "name": "tr46",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/tr46"
+    },
+    {
+      "name": "webidl-conversions",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/webidl-conversions"
+    },
+    {
+      "name": "whatwg-url",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/whatwg-url"
+    },
+    {
+      "name": "node_modules",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules"
+    },
+    {
+      "name": "mongod-ftdc",
+      "relativePath": "research/rate_limiters/local_mongotune/diagnostics/mongod-ftdc"
+    },
+    {
+      "name": "mongotune-ftdc",
+      "relativePath": "research/rate_limiters/local_mongotune/diagnostics/mongotune-ftdc"
+    },
+    {
+      "name": "mongotune-src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src"
+    },
+    {
+      "name": "workload",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload"
+    },
+    {
+      "name": "mongotune",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune"
+    },
+    {
+      "name": "@mongodb-js",
+      "relativePath": "research/sharding_readPreference/client/node_modules/@mongodb-js"
+    },
+    {
+      "name": "@types",
+      "relativePath": "research/sharding_readPreference/client/node_modules/@types"
+    },
+    {
+      "name": "bson",
+      "relativePath": "research/sharding_readPreference/client/node_modules/bson"
+    },
+    {
+      "name": "memory-pager",
+      "relativePath": "research/sharding_readPreference/client/node_modules/memory-pager"
+    },
+    {
+      "name": "mongodb",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb"
+    },
+    {
+      "name": "mongodb-connection-string-url",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb-connection-string-url"
+    },
+    {
+      "name": "punycode",
+      "relativePath": "research/sharding_readPreference/client/node_modules/punycode"
+    },
+    {
+      "name": "sparse-bitfield",
+      "relativePath": "research/sharding_readPreference/client/node_modules/sparse-bitfield"
+    },
+    {
+      "name": "tr46",
+      "relativePath": "research/sharding_readPreference/client/node_modules/tr46"
+    },
+    {
+      "name": "webidl-conversions",
+      "relativePath": "research/sharding_readPreference/client/node_modules/webidl-conversions"
+    },
+    {
+      "name": "whatwg-url",
+      "relativePath": "research/sharding_readPreference/client/node_modules/whatwg-url"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/crates/ftdc-io/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/mongotune/mongotune/crates/ftdc-io/tests"
+    },
+    {
+      "name": "config",
+      "relativePath": "research/mongotune/mongotune/docs/src/config"
+    },
+    {
+      "name": "dev",
+      "relativePath": "research/mongotune/mongotune/docs/src/dev"
+    },
+    {
+      "name": "metrics",
+      "relativePath": "research/mongotune/mongotune/docs/src/metrics"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/crates/metrics-exporter-ftdc/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/mongotune/mongotune/crates/metrics-exporter-ftdc/tests"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/mongotune/mongotune/crates/metrics-exporter-otlp/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/crates/metrics-exporter-otlp/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/crates/metrics-exporter-util/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/mongotune/mongotune/crates/metrics-exporter-util/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/crates/mockable-clock/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-auto-restart/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-auto-restart/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-core/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-disk-write-blocking/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-disk-write-blocking/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-dynamic-connection-establishment-rate-limiting/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-dynamic-eviction-worker/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-dynamic-connection-establishment-rate-limiting/tests"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-dynamic-eviction-worker/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-dynamic-rate-limiting-ingress/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-dynamic-rate-limiting-ingress/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-example-policy/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-example-policy/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-execution-control/src"
+    },
+    {
+      "name": "monitors",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-query-sentinel/monitors"
+    },
+    {
+      "name": "policy",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-query-sentinel/policy"
+    },
+    {
+      "name": "test-util",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-query-sentinel/test-util"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-tcmalloc-release-rate/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-tcmalloc-release-rate/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-macros/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-test-util/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/crates/signal-dwell-time/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/crates/server-status/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/mongotune/mongotune/crates/tracing-logv2/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/crates/tracing-logv2/src"
+    },
+    {
+      "name": "saslprep",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/@mongodb-js/saslprep"
+    },
+    {
+      "name": "webidl-conversions",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/@types/webidl-conversions"
+    },
+    {
+      "name": "whatwg-url",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/@types/whatwg-url"
+    },
+    {
+      "name": "etc",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/bson/etc"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/bson/lib"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/bson/src"
+    },
+    {
+      "name": "vendor",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/bson/vendor"
+    },
+    {
+      "name": "etc",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/etc"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/lib"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/src"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb-connection-string-url/lib"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/tr46/lib"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/whatwg-url/lib"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/webidl-conversions/lib"
+    },
+    {
+      "name": "configurations",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/configurations"
+    },
+    {
+      "name": "crates",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates"
+    },
+    {
+      "name": "@mongodb-js",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/@mongodb-js"
+    },
+    {
+      "name": "scripts",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/scripts"
+    },
+    {
+      "name": "@types",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/@types"
+    },
+    {
+      "name": "bson",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/bson"
+    },
+    {
+      "name": "memory-pager",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/memory-pager"
+    },
+    {
+      "name": "mongodb-connection-string-url",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb-connection-string-url"
+    },
+    {
+      "name": "punycode",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/punycode"
+    },
+    {
+      "name": "sparse-bitfield",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/sparse-bitfield"
+    },
+    {
+      "name": "mongodb",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb"
+    },
+    {
+      "name": "tr46",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/tr46"
+    },
+    {
+      "name": "webidl-conversions",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/webidl-conversions"
+    },
+    {
+      "name": "whatwg-url",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/whatwg-url"
+    },
+    {
+      "name": "node_modules",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules"
+    },
+    {
+      "name": "configurations",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/configurations"
+    },
+    {
+      "name": "crates",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates"
+    },
+    {
+      "name": "docs",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/docs"
+    },
+    {
+      "name": "webidl-conversions",
+      "relativePath": "research/sharding_readPreference/client/node_modules/@types/webidl-conversions"
+    },
+    {
+      "name": "whatwg-url",
+      "relativePath": "research/sharding_readPreference/client/node_modules/@types/whatwg-url"
+    },
+    {
+      "name": "scripts",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/scripts"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/sharding_readPreference/client/node_modules/bson/lib"
+    },
+    {
+      "name": "etc",
+      "relativePath": "research/sharding_readPreference/client/node_modules/bson/etc"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/sharding_readPreference/client/node_modules/bson/src"
+    },
+    {
+      "name": "saslprep",
+      "relativePath": "research/sharding_readPreference/client/node_modules/@mongodb-js/saslprep"
+    },
+    {
+      "name": "etc",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/etc"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/lib"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/src"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb-connection-string-url/lib"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/sharding_readPreference/client/node_modules/tr46/lib"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/sharding_readPreference/client/node_modules/webidl-conversions/lib"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/sharding_readPreference/client/node_modules/whatwg-url/lib"
+    },
+    {
+      "name": "write",
+      "relativePath": "research/mongotune/mongotune/crates/ftdc-io/src/write"
+    },
+    {
+      "name": "general",
+      "relativePath": "research/mongotune/mongotune/docs/src/config/general"
+    },
+    {
+      "name": "servers",
+      "relativePath": "research/mongotune/mongotune/docs/src/config/servers"
+    },
+    {
+      "name": "arch",
+      "relativePath": "research/mongotune/mongotune/docs/src/dev/arch"
+    },
+    {
+      "name": "collector",
+      "relativePath": "research/mongotune/mongotune/crates/metrics-exporter-ftdc/src/collector"
+    },
+    {
+      "name": "exporter",
+      "relativePath": "research/mongotune/mongotune/crates/metrics-exporter-ftdc/src/exporter"
+    },
+    {
+      "name": "client",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune/src/client"
+    },
+    {
+      "name": "config",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune/src/config"
+    },
+    {
+      "name": "heartbeat",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune/src/heartbeat"
+    },
+    {
+      "name": "observability",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune/src/observability"
+    },
+    {
+      "name": "policies",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune/src/policies"
+    },
+    {
+      "name": "runtime",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune/src/runtime"
+    },
+    {
+      "name": "signal",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune/src/signal"
+    },
+    {
+      "name": "version",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune/src/version"
+    },
+    {
+      "name": "atlas_event",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-core/src/atlas_event"
+    },
+    {
+      "name": "time_box",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-core/src/time_box"
+    },
+    {
+      "name": "client",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-core/src/client"
+    },
+    {
+      "name": "yaml",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-disk-write-blocking/tests/yaml"
+    },
+    {
+      "name": "util",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-disk-write-blocking/tests/util"
+    },
+    {
+      "name": "util",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-dynamic-connection-establishment-rate-limiting/tests/util"
+    },
+    {
+      "name": "yaml",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-dynamic-connection-establishment-rate-limiting/tests/yaml"
+    },
+    {
+      "name": "limit",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-dynamic-rate-limiting-ingress/src/limit"
+    },
+    {
+      "name": "monitor",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-dynamic-rate-limiting-ingress/src/monitor"
+    },
+    {
+      "name": "yaml",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-example-policy/tests/yaml"
+    },
+    {
+      "name": "util",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-dynamic-rate-limiting-ingress/tests/util"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-query-sentinel/monitors/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-query-sentinel/policy/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-query-sentinel/test-util/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-query-sentinel/policy/tests"
+    },
+    {
+      "name": "orchestration",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-test-util/src/orchestration"
+    },
+    {
+      "name": "sink",
+      "relativePath": "research/mongotune/mongotune/crates/tracing-logv2/src/sink"
+    },
+    {
+      "name": "layer",
+      "relativePath": "research/mongotune/mongotune/crates/tracing-logv2/src/layer"
+    },
+    {
+      "name": "dist",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/@mongodb-js/saslprep/dist"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/@types/whatwg-url/lib"
+    },
+    {
+      "name": "parser",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/bson/src/parser"
+    },
+    {
+      "name": "utils",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/bson/src/utils"
+    },
+    {
+      "name": "base64",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/bson/vendor/base64"
+    },
+    {
+      "name": "text-encoding",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/bson/vendor/text-encoding"
+    },
+    {
+      "name": "bulk",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/lib/bulk"
+    },
+    {
+      "name": "client-side-encryption",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/lib/client-side-encryption"
+    },
+    {
+      "name": "cmap",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/lib/cmap"
+    },
+    {
+      "name": "cursor",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/lib/cursor"
+    },
+    {
+      "name": "gridfs",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/lib/gridfs"
+    },
+    {
+      "name": "operations",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/lib/operations"
+    },
+    {
+      "name": "sdam",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/lib/sdam"
+    },
+    {
+      "name": "bulk",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/src/bulk"
+    },
+    {
+      "name": "client-side-encryption",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/src/client-side-encryption"
+    },
+    {
+      "name": "cmap",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/src/cmap"
+    },
+    {
+      "name": "cursor",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/src/cursor"
+    },
+    {
+      "name": "gridfs",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/src/gridfs"
+    },
+    {
+      "name": "sdam",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/src/sdam"
+    },
+    {
+      "name": "dsi",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/configurations/dsi"
+    },
+    {
+      "name": "ftdc-io",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/ftdc-io"
+    },
+    {
+      "name": "operations",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/src/operations"
+    },
+    {
+      "name": "metrics-exporter-ftdc",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/metrics-exporter-ftdc"
+    },
+    {
+      "name": "metrics-exporter-otlp",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/metrics-exporter-otlp"
+    },
+    {
+      "name": "metrics-exporter-util",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/metrics-exporter-util"
+    },
+    {
+      "name": "mockable-clock",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mockable-clock"
+    },
+    {
+      "name": "mongotune",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune"
+    },
+    {
+      "name": "mongotune-auto-restart",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-auto-restart"
+    },
+    {
+      "name": "mongotune-core",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-core"
+    },
+    {
+      "name": "mongotune-disk-write-blocking",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-disk-write-blocking"
+    },
+    {
+      "name": "mongotune-dynamic-connection-establishment-rate-limiting",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-dynamic-connection-establishment-rate-limiting"
+    },
+    {
+      "name": "mongotune-dynamic-eviction-worker",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-dynamic-eviction-worker"
+    },
+    {
+      "name": "mongotune-example-policy",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-example-policy"
+    },
+    {
+      "name": "mongotune-dynamic-rate-limiting-ingress",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-dynamic-rate-limiting-ingress"
+    },
+    {
+      "name": "mongotune-execution-control",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-execution-control"
+    },
+    {
+      "name": "mongotune-macros",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-macros"
+    },
+    {
+      "name": "mongotune-query-sentinel",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-query-sentinel"
+    },
+    {
+      "name": "mongotune-runtime",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-runtime"
+    },
+    {
+      "name": "mongotune-tcmalloc-release-rate",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-tcmalloc-release-rate"
+    },
+    {
+      "name": "mongotune-test-util",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-test-util"
+    },
+    {
+      "name": "server-status",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/server-status"
+    },
+    {
+      "name": "tracing-logv2",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/tracing-logv2"
+    },
+    {
+      "name": "saslprep",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/@mongodb-js/saslprep"
+    },
+    {
+      "name": "webidl-conversions",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/@types/webidl-conversions"
+    },
+    {
+      "name": "signal-dwell-time",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/signal-dwell-time"
+    },
+    {
+      "name": "whatwg-url",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/@types/whatwg-url"
+    },
+    {
+      "name": "etc",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/bson/etc"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/bson/lib"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/bson/src"
+    },
+    {
+      "name": "vendor",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/bson/vendor"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb-connection-string-url/lib"
+    },
+    {
+      "name": "etc",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/etc"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/lib"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/src"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/tr46/lib"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/webidl-conversions/lib"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/whatwg-url/lib"
+    },
+    {
+      "name": "@mongodb-js",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/@mongodb-js"
+    },
+    {
+      "name": "@types",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/@types"
+    },
+    {
+      "name": "bson",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/bson"
+    },
+    {
+      "name": "memory-pager",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/memory-pager"
+    },
+    {
+      "name": "mongodb",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb"
+    },
+    {
+      "name": "mongodb-connection-string-url",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb-connection-string-url"
+    },
+    {
+      "name": "punycode",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/punycode"
+    },
+    {
+      "name": "sparse-bitfield",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/sparse-bitfield"
+    },
+    {
+      "name": "tr46",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/tr46"
+    },
+    {
+      "name": "webidl-conversions",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/webidl-conversions"
+    },
+    {
+      "name": "whatwg-url",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/whatwg-url"
+    },
+    {
+      "name": "dsi",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/configurations/dsi"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/docs/src"
+    },
+    {
+      "name": "ftdc-io",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/ftdc-io"
+    },
+    {
+      "name": "metrics-exporter-ftdc",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/metrics-exporter-ftdc"
+    },
+    {
+      "name": "metrics-exporter-otlp",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/metrics-exporter-otlp"
+    },
+    {
+      "name": "metrics-exporter-util",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/metrics-exporter-util"
+    },
+    {
+      "name": "mockable-clock",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mockable-clock"
+    },
+    {
+      "name": "mongotune",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune"
+    },
+    {
+      "name": "mongotune-auto-restart",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-auto-restart"
+    },
+    {
+      "name": "mongotune-core",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-core"
+    },
+    {
+      "name": "mongotune-disk-write-blocking",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-disk-write-blocking"
+    },
+    {
+      "name": "mongotune-dynamic-eviction-worker",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-dynamic-eviction-worker"
+    },
+    {
+      "name": "mongotune-dynamic-connection-establishment-rate-limiting",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-dynamic-connection-establishment-rate-limiting"
+    },
+    {
+      "name": "mongotune-dynamic-rate-limiting-ingress",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-dynamic-rate-limiting-ingress"
+    },
+    {
+      "name": "mongotune-example-policy",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-example-policy"
+    },
+    {
+      "name": "mongotune-execution-control",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-execution-control"
+    },
+    {
+      "name": "mongotune-macros",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-macros"
+    },
+    {
+      "name": "mongotune-query-sentinel",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-query-sentinel"
+    },
+    {
+      "name": "mongotune-runtime",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-runtime"
+    },
+    {
+      "name": "mongotune-tcmalloc-release-rate",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-tcmalloc-release-rate"
+    },
+    {
+      "name": "mongotune-test-util",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-test-util"
+    },
+    {
+      "name": "server-status",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/server-status"
+    },
+    {
+      "name": "signal-dwell-time",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/signal-dwell-time"
+    },
+    {
+      "name": "tracing-logv2",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/tracing-logv2"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/sharding_readPreference/client/node_modules/@types/whatwg-url/lib"
+    },
+    {
+      "name": "parser",
+      "relativePath": "research/sharding_readPreference/client/node_modules/bson/src/parser"
+    },
+    {
+      "name": "utils",
+      "relativePath": "research/sharding_readPreference/client/node_modules/bson/src/utils"
+    },
+    {
+      "name": "dist",
+      "relativePath": "research/sharding_readPreference/client/node_modules/@mongodb-js/saslprep/dist"
+    },
+    {
+      "name": "bulk",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/lib/bulk"
+    },
+    {
+      "name": "client-side-encryption",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/lib/client-side-encryption"
+    },
+    {
+      "name": "cmap",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/lib/cmap"
+    },
+    {
+      "name": "cursor",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/lib/cursor"
+    },
+    {
+      "name": "gridfs",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/lib/gridfs"
+    },
+    {
+      "name": "operations",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/lib/operations"
+    },
+    {
+      "name": "sdam",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/lib/sdam"
+    },
+    {
+      "name": "bulk",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/src/bulk"
+    },
+    {
+      "name": "client-side-encryption",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/src/client-side-encryption"
+    },
+    {
+      "name": "cursor",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/src/cursor"
+    },
+    {
+      "name": "cmap",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/src/cmap"
+    },
+    {
+      "name": "gridfs",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/src/gridfs"
+    },
+    {
+      "name": "operations",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/src/operations"
+    },
+    {
+      "name": "sdam",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/src/sdam"
+    },
+    {
+      "name": "encoder",
+      "relativePath": "research/mongotune/mongotune/crates/ftdc-io/src/write/encoder"
+    },
+    {
+      "name": "policies",
+      "relativePath": "research/mongotune/mongotune/docs/src/config/servers/policies"
+    },
+    {
+      "name": "metadata",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune/src/observability/metadata"
+    },
+    {
+      "name": "metrics",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune/src/observability/metrics"
+    },
+    {
+      "name": "tracing",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune/src/observability/tracing"
+    },
+    {
+      "name": "enumerators",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune/src/policies/enumerators"
+    },
+    {
+      "name": "manager",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune/src/runtime/manager"
+    },
+    {
+      "name": "cfg_selector",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune/src/runtime/cfg_selector"
+    },
+    {
+      "name": "runner",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune/src/runtime/runner"
+    },
+    {
+      "name": "yaml",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-query-sentinel/policy/tests/yaml"
+    },
+    {
+      "name": "api",
+      "relativePath": "research/mongotune/mongotune/crates/mongotune-test-util/src/orchestration/api"
+    },
+    {
+      "name": "on_demand",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/bson/src/parser/on_demand"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/bson/vendor/text-encoding/lib"
+    },
+    {
+      "name": "providers",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/lib/client-side-encryption/providers"
+    },
+    {
+      "name": "auth",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/lib/cmap/auth"
+    },
+    {
+      "name": "handshake",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/lib/cmap/handshake"
+    },
+    {
+      "name": "wire_protocol",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/lib/cmap/wire_protocol"
+    },
+    {
+      "name": "client_bulk_write",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/lib/operations/client_bulk_write"
+    },
+    {
+      "name": "search_indexes",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/lib/operations/search_indexes"
+    },
+    {
+      "name": "providers",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/src/client-side-encryption/providers"
+    },
+    {
+      "name": "auth",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/src/cmap/auth"
+    },
+    {
+      "name": "handshake",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/src/cmap/handshake"
+    },
+    {
+      "name": "wire_protocol",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/src/cmap/wire_protocol"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/ftdc-io/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/ftdc-io/tests"
+    },
+    {
+      "name": "client_bulk_write",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/src/operations/client_bulk_write"
+    },
+    {
+      "name": "search_indexes",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/src/operations/search_indexes"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/metrics-exporter-ftdc/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/metrics-exporter-ftdc/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/metrics-exporter-otlp/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/metrics-exporter-otlp/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/metrics-exporter-util/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/metrics-exporter-util/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mockable-clock/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-auto-restart/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-auto-restart/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-core/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-disk-write-blocking/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-disk-write-blocking/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-dynamic-connection-establishment-rate-limiting/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-dynamic-connection-establishment-rate-limiting/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-dynamic-eviction-worker/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-dynamic-eviction-worker/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-example-policy/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-example-policy/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-dynamic-rate-limiting-ingress/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-dynamic-rate-limiting-ingress/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-execution-control/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-macros/src"
+    },
+    {
+      "name": "monitors",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-query-sentinel/monitors"
+    },
+    {
+      "name": "policy",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-query-sentinel/policy"
+    },
+    {
+      "name": "test-util",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-query-sentinel/test-util"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-runtime/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-tcmalloc-release-rate/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-tcmalloc-release-rate/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-test-util/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/server-status/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/tracing-logv2/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/tracing-logv2/tests"
+    },
+    {
+      "name": "dist",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/@mongodb-js/saslprep/dist"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/signal-dwell-time/src"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/@types/whatwg-url/lib"
+    },
+    {
+      "name": "parser",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/bson/src/parser"
+    },
+    {
+      "name": "utils",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/bson/src/utils"
+    },
+    {
+      "name": "base64",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/bson/vendor/base64"
+    },
+    {
+      "name": "text-encoding",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/bson/vendor/text-encoding"
+    },
+    {
+      "name": "bulk",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/lib/bulk"
+    },
+    {
+      "name": "client-side-encryption",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/lib/client-side-encryption"
+    },
+    {
+      "name": "cmap",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/lib/cmap"
+    },
+    {
+      "name": "cursor",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/lib/cursor"
+    },
+    {
+      "name": "gridfs",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/lib/gridfs"
+    },
+    {
+      "name": "operations",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/lib/operations"
+    },
+    {
+      "name": "sdam",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/lib/sdam"
+    },
+    {
+      "name": "bulk",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/src/bulk"
+    },
+    {
+      "name": "client-side-encryption",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/src/client-side-encryption"
+    },
+    {
+      "name": "cmap",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/src/cmap"
+    },
+    {
+      "name": "cursor",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/src/cursor"
+    },
+    {
+      "name": "gridfs",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/src/gridfs"
+    },
+    {
+      "name": "operations",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/src/operations"
+    },
+    {
+      "name": "sdam",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/src/sdam"
+    },
+    {
+      "name": "saslprep",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/@mongodb-js/saslprep"
+    },
+    {
+      "name": "webidl-conversions",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/@types/webidl-conversions"
+    },
+    {
+      "name": "whatwg-url",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/@types/whatwg-url"
+    },
+    {
+      "name": "etc",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/bson/etc"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/bson/lib"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/bson/src"
+    },
+    {
+      "name": "vendor",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/bson/vendor"
+    },
+    {
+      "name": "etc",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/etc"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/lib"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/src"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb-connection-string-url/lib"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/tr46/lib"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/webidl-conversions/lib"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/whatwg-url/lib"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/ftdc-io/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/ftdc-io/tests"
+    },
+    {
+      "name": "config",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/docs/src/config"
+    },
+    {
+      "name": "dev",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/docs/src/dev"
+    },
+    {
+      "name": "metrics",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/docs/src/metrics"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/metrics-exporter-ftdc/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/metrics-exporter-ftdc/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/metrics-exporter-otlp/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/metrics-exporter-otlp/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/metrics-exporter-util/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/metrics-exporter-util/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mockable-clock/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-auto-restart/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-auto-restart/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-disk-write-blocking/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-disk-write-blocking/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-core/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-dynamic-eviction-worker/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-dynamic-eviction-worker/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-dynamic-rate-limiting-ingress/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-dynamic-rate-limiting-ingress/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-dynamic-connection-establishment-rate-limiting/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-dynamic-connection-establishment-rate-limiting/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-example-policy/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-example-policy/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-execution-control/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-macros/src"
+    },
+    {
+      "name": "monitors",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-query-sentinel/monitors"
+    },
+    {
+      "name": "policy",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-query-sentinel/policy"
+    },
+    {
+      "name": "test-util",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-query-sentinel/test-util"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-runtime/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-tcmalloc-release-rate/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-tcmalloc-release-rate/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-test-util/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/server-status/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/signal-dwell-time/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/tracing-logv2/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/tracing-logv2/tests"
+    },
+    {
+      "name": "on_demand",
+      "relativePath": "research/sharding_readPreference/client/node_modules/bson/src/parser/on_demand"
+    },
+    {
+      "name": "providers",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/lib/client-side-encryption/providers"
+    },
+    {
+      "name": "auth",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/lib/cmap/auth"
+    },
+    {
+      "name": "handshake",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/lib/cmap/handshake"
+    },
+    {
+      "name": "wire_protocol",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/lib/cmap/wire_protocol"
+    },
+    {
+      "name": "client_bulk_write",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/lib/operations/client_bulk_write"
+    },
+    {
+      "name": "search_indexes",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/lib/operations/search_indexes"
+    },
+    {
+      "name": "auth",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/src/cmap/auth"
+    },
+    {
+      "name": "providers",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/src/client-side-encryption/providers"
+    },
+    {
+      "name": "handshake",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/src/cmap/handshake"
+    },
+    {
+      "name": "wire_protocol",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/src/cmap/wire_protocol"
+    },
+    {
+      "name": "client_bulk_write",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/src/operations/client_bulk_write"
+    },
+    {
+      "name": "search_indexes",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/src/operations/search_indexes"
+    },
+    {
+      "name": "mongodb_oidc",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/lib/cmap/auth/mongodb_oidc"
+    },
+    {
+      "name": "on_demand",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/lib/cmap/wire_protocol/on_demand"
+    },
+    {
+      "name": "mongodb_oidc",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/src/cmap/auth/mongodb_oidc"
+    },
+    {
+      "name": "on_demand",
+      "relativePath": "research/mongotune/trigger-scripts/node_modules/mongodb/src/cmap/wire_protocol/on_demand"
+    },
+    {
+      "name": "write",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/ftdc-io/src/write"
+    },
+    {
+      "name": "collector",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/metrics-exporter-ftdc/src/collector"
+    },
+    {
+      "name": "exporter",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/metrics-exporter-ftdc/src/exporter"
+    },
+    {
+      "name": "heartbeat",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune/src/heartbeat"
+    },
+    {
+      "name": "signal",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune/src/signal"
+    },
+    {
+      "name": "observability",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune/src/observability"
+    },
+    {
+      "name": "version",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune/src/version"
+    },
+    {
+      "name": "atlas_event",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-core/src/atlas_event"
+    },
+    {
+      "name": "client",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-core/src/client"
+    },
+    {
+      "name": "time_box",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-core/src/time_box"
+    },
+    {
+      "name": "util",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-disk-write-blocking/tests/util"
+    },
+    {
+      "name": "yaml",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-disk-write-blocking/tests/yaml"
+    },
+    {
+      "name": "util",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-dynamic-connection-establishment-rate-limiting/tests/util"
+    },
+    {
+      "name": "yaml",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-dynamic-connection-establishment-rate-limiting/tests/yaml"
+    },
+    {
+      "name": "yaml",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-example-policy/tests/yaml"
+    },
+    {
+      "name": "limit",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-dynamic-rate-limiting-ingress/src/limit"
+    },
+    {
+      "name": "monitor",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-dynamic-rate-limiting-ingress/src/monitor"
+    },
+    {
+      "name": "util",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-dynamic-rate-limiting-ingress/tests/util"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-query-sentinel/monitors/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-query-sentinel/policy/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-query-sentinel/policy/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-query-sentinel/test-util/src"
+    },
+    {
+      "name": "client",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-runtime/src/client"
+    },
+    {
+      "name": "config",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-runtime/src/config"
+    },
+    {
+      "name": "observability",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-runtime/src/observability"
+    },
+    {
+      "name": "policies",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-runtime/src/policies"
+    },
+    {
+      "name": "runtime",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-runtime/src/runtime"
+    },
+    {
+      "name": "orchestration",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-test-util/src/orchestration"
+    },
+    {
+      "name": "layer",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/tracing-logv2/src/layer"
+    },
+    {
+      "name": "sink",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/tracing-logv2/src/sink"
+    },
+    {
+      "name": "on_demand",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/bson/src/parser/on_demand"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/bson/vendor/text-encoding/lib"
+    },
+    {
+      "name": "providers",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/lib/client-side-encryption/providers"
+    },
+    {
+      "name": "auth",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/lib/cmap/auth"
+    },
+    {
+      "name": "handshake",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/lib/cmap/handshake"
+    },
+    {
+      "name": "wire_protocol",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/lib/cmap/wire_protocol"
+    },
+    {
+      "name": "client_bulk_write",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/lib/operations/client_bulk_write"
+    },
+    {
+      "name": "search_indexes",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/lib/operations/search_indexes"
+    },
+    {
+      "name": "providers",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/src/client-side-encryption/providers"
+    },
+    {
+      "name": "auth",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/src/cmap/auth"
+    },
+    {
+      "name": "handshake",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/src/cmap/handshake"
+    },
+    {
+      "name": "wire_protocol",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/src/cmap/wire_protocol"
+    },
+    {
+      "name": "client_bulk_write",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/src/operations/client_bulk_write"
+    },
+    {
+      "name": "search_indexes",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/src/operations/search_indexes"
+    },
+    {
+      "name": "dist",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/@mongodb-js/saslprep/dist"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/@types/whatwg-url/lib"
+    },
+    {
+      "name": "parser",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/bson/src/parser"
+    },
+    {
+      "name": "utils",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/bson/src/utils"
+    },
+    {
+      "name": "base64",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/bson/vendor/base64"
+    },
+    {
+      "name": "text-encoding",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/bson/vendor/text-encoding"
+    },
+    {
+      "name": "bulk",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/lib/bulk"
+    },
+    {
+      "name": "client-side-encryption",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/lib/client-side-encryption"
+    },
+    {
+      "name": "cmap",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/lib/cmap"
+    },
+    {
+      "name": "cursor",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/lib/cursor"
+    },
+    {
+      "name": "gridfs",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/lib/gridfs"
+    },
+    {
+      "name": "operations",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/lib/operations"
+    },
+    {
+      "name": "sdam",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/lib/sdam"
+    },
+    {
+      "name": "bulk",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/src/bulk"
+    },
+    {
+      "name": "client-side-encryption",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/src/client-side-encryption"
+    },
+    {
+      "name": "cmap",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/src/cmap"
+    },
+    {
+      "name": "cursor",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/src/cursor"
+    },
+    {
+      "name": "gridfs",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/src/gridfs"
+    },
+    {
+      "name": "operations",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/src/operations"
+    },
+    {
+      "name": "sdam",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/src/sdam"
+    },
+    {
+      "name": "write",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/ftdc-io/src/write"
+    },
+    {
+      "name": "general",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/docs/src/config/general"
+    },
+    {
+      "name": "servers",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/docs/src/config/servers"
+    },
+    {
+      "name": "arch",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/docs/src/dev/arch"
+    },
+    {
+      "name": "collector",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/metrics-exporter-ftdc/src/collector"
+    },
+    {
+      "name": "exporter",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/metrics-exporter-ftdc/src/exporter"
+    },
+    {
+      "name": "heartbeat",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune/src/heartbeat"
+    },
+    {
+      "name": "observability",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune/src/observability"
+    },
+    {
+      "name": "signal",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune/src/signal"
+    },
+    {
+      "name": "version",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune/src/version"
+    },
+    {
+      "name": "util",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-disk-write-blocking/tests/util"
+    },
+    {
+      "name": "yaml",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-disk-write-blocking/tests/yaml"
+    },
+    {
+      "name": "atlas_event",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-core/src/atlas_event"
+    },
+    {
+      "name": "client",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-core/src/client"
+    },
+    {
+      "name": "time_box",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-core/src/time_box"
+    },
+    {
+      "name": "limit",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-dynamic-rate-limiting-ingress/src/limit"
+    },
+    {
+      "name": "monitor",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-dynamic-rate-limiting-ingress/src/monitor"
+    },
+    {
+      "name": "util",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-dynamic-rate-limiting-ingress/tests/util"
+    },
+    {
+      "name": "util",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-dynamic-connection-establishment-rate-limiting/tests/util"
+    },
+    {
+      "name": "yaml",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-dynamic-connection-establishment-rate-limiting/tests/yaml"
+    },
+    {
+      "name": "yaml",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-example-policy/tests/yaml"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-query-sentinel/monitors/src"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-query-sentinel/policy/src"
+    },
+    {
+      "name": "tests",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-query-sentinel/policy/tests"
+    },
+    {
+      "name": "src",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-query-sentinel/test-util/src"
+    },
+    {
+      "name": "client",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-runtime/src/client"
+    },
+    {
+      "name": "config",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-runtime/src/config"
+    },
+    {
+      "name": "observability",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-runtime/src/observability"
+    },
+    {
+      "name": "policies",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-runtime/src/policies"
+    },
+    {
+      "name": "runtime",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-runtime/src/runtime"
+    },
+    {
+      "name": "orchestration",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-test-util/src/orchestration"
+    },
+    {
+      "name": "layer",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/tracing-logv2/src/layer"
+    },
+    {
+      "name": "sink",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/tracing-logv2/src/sink"
+    },
+    {
+      "name": "mongodb_oidc",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/lib/cmap/auth/mongodb_oidc"
+    },
+    {
+      "name": "on_demand",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/lib/cmap/wire_protocol/on_demand"
+    },
+    {
+      "name": "mongodb_oidc",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/src/cmap/auth/mongodb_oidc"
+    },
+    {
+      "name": "on_demand",
+      "relativePath": "research/sharding_readPreference/client/node_modules/mongodb/src/cmap/wire_protocol/on_demand"
+    },
+    {
+      "name": "encoder",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/ftdc-io/src/write/encoder"
+    },
+    {
+      "name": "tracing",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune/src/observability/tracing"
+    },
+    {
+      "name": "yaml",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-query-sentinel/policy/tests/yaml"
+    },
+    {
+      "name": "metadata",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-runtime/src/observability/metadata"
+    },
+    {
+      "name": "metrics",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-runtime/src/observability/metrics"
+    },
+    {
+      "name": "enumerators",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-runtime/src/policies/enumerators"
+    },
+    {
+      "name": "cfg_selector",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-runtime/src/runtime/cfg_selector"
+    },
+    {
+      "name": "manager",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-runtime/src/runtime/manager"
+    },
+    {
+      "name": "runner",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-runtime/src/runtime/runner"
+    },
+    {
+      "name": "api",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/mongotune-src/crates/mongotune-test-util/src/orchestration/api"
+    },
+    {
+      "name": "mongodb_oidc",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/lib/cmap/auth/mongodb_oidc"
+    },
+    {
+      "name": "on_demand",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/lib/cmap/wire_protocol/on_demand"
+    },
+    {
+      "name": "on_demand",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/src/cmap/wire_protocol/on_demand"
+    },
+    {
+      "name": "mongodb_oidc",
+      "relativePath": "research/rate_limiters/local_mongotune/atlas-load-test/node_modules/mongodb/src/cmap/auth/mongodb_oidc"
+    },
+    {
+      "name": "on_demand",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/bson/src/parser/on_demand"
+    },
+    {
+      "name": "lib",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/bson/vendor/text-encoding/lib"
+    },
+    {
+      "name": "providers",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/lib/client-side-encryption/providers"
+    },
+    {
+      "name": "auth",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/lib/cmap/auth"
+    },
+    {
+      "name": "handshake",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/lib/cmap/handshake"
+    },
+    {
+      "name": "wire_protocol",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/lib/cmap/wire_protocol"
+    },
+    {
+      "name": "client_bulk_write",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/lib/operations/client_bulk_write"
+    },
+    {
+      "name": "search_indexes",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/lib/operations/search_indexes"
+    },
+    {
+      "name": "providers",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/src/client-side-encryption/providers"
+    },
+    {
+      "name": "auth",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/src/cmap/auth"
+    },
+    {
+      "name": "handshake",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/src/cmap/handshake"
+    },
+    {
+      "name": "wire_protocol",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/src/cmap/wire_protocol"
+    },
+    {
+      "name": "client_bulk_write",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/src/operations/client_bulk_write"
+    },
+    {
+      "name": "search_indexes",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/src/operations/search_indexes"
+    },
+    {
+      "name": "encoder",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/ftdc-io/src/write/encoder"
+    },
+    {
+      "name": "policies",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/docs/src/config/servers/policies"
+    },
+    {
+      "name": "tracing",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune/src/observability/tracing"
+    },
+    {
+      "name": "yaml",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-query-sentinel/policy/tests/yaml"
+    },
+    {
+      "name": "metadata",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-runtime/src/observability/metadata"
+    },
+    {
+      "name": "metrics",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-runtime/src/observability/metrics"
+    },
+    {
+      "name": "enumerators",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-runtime/src/policies/enumerators"
+    },
+    {
+      "name": "api",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-test-util/src/orchestration/api"
+    },
+    {
+      "name": "cfg_selector",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-runtime/src/runtime/cfg_selector"
+    },
+    {
+      "name": "manager",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-runtime/src/runtime/manager"
+    },
+    {
+      "name": "runner",
+      "relativePath": "research/rate_limiters/local_mongotune/source_code/mongotune/crates/mongotune-runtime/src/runtime/runner"
+    },
+    {
+      "name": "mongodb_oidc",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/lib/cmap/auth/mongodb_oidc"
+    },
+    {
+      "name": "on_demand",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/lib/cmap/wire_protocol/on_demand"
+    },
+    {
+      "name": "mongodb_oidc",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/src/cmap/auth/mongodb_oidc"
+    },
+    {
+      "name": "on_demand",
+      "relativePath": "research/rate_limiters/local_mongotune/demo/workload/node_modules/mongodb/src/cmap/wire_protocol/on_demand"
+    }
+  ],
+  "nonMdFiles": [
+    {
+      "name": "Untitled.base",
+      "basename": "Untitled",
+      "relativePath": "Untitled.base"
+    },
+    {
+      "name": "Untitled.canvas",
+      "basename": "Untitled",
+      "relativePath": "Untitled.canvas"
+    },
+    {
+      "name": "✱ My Tasks.canvas",
+      "basename": "✱ My Tasks",
+      "relativePath": "✱ My Tasks.canvas"
+    },
+    {
+      "name": "✱ Tools.canvas",
+      "basename": "✱ Tools",
+      "relativePath": "✱ Tools.canvas"
+    },
+    {
+      "name": "✱ Watch List.canvas",
+      "basename": "✱ Watch List",
+      "relativePath": "✱ Watch List.canvas"
+    },
+    {
+      "name": "finance.canvas",
+      "basename": "finance",
+      "relativePath": "0x/finance.canvas"
+    },
+    {
+      "name": "00D95F24-282B-4612-84B2-8EE56413D6FB.png",
+      "basename": "00D95F24-282B-4612-84B2-8EE56413D6FB",
+      "relativePath": "@/00D95F24-282B-4612-84B2-8EE56413D6FB.png"
+    },
+    {
+      "name": "0100667B-F642-4D38-B126-9AC834C4730D.png",
+      "basename": "0100667B-F642-4D38-B126-9AC834C4730D",
+      "relativePath": "@/0100667B-F642-4D38-B126-9AC834C4730D.png"
+    },
+    {
+      "name": "0179009B-1B93-4D9E-9DAB-4ADE2C3296A9.png",
+      "basename": "0179009B-1B93-4D9E-9DAB-4ADE2C3296A9",
+      "relativePath": "@/0179009B-1B93-4D9E-9DAB-4ADE2C3296A9.png"
+    },
+    {
+      "name": "0185F4B4-A1D4-4ACE-9B82-50B4AC52A4A6.jpeg",
+      "basename": "0185F4B4-A1D4-4ACE-9B82-50B4AC52A4A6",
+      "relativePath": "@/0185F4B4-A1D4-4ACE-9B82-50B4AC52A4A6.jpeg"
+    },
+    {
+      "name": "02EF5012-9662-4714-82CA-01D2782E9029.png",
+      "basename": "02EF5012-9662-4714-82CA-01D2782E9029",
+      "relativePath": "@/02EF5012-9662-4714-82CA-01D2782E9029.png"
+    },
+    {
+      "name": "03357AC4-0F70-4EDA-BDB7-D99E999E9544.png",
+      "basename": "03357AC4-0F70-4EDA-BDB7-D99E999E9544",
+      "relativePath": "@/03357AC4-0F70-4EDA-BDB7-D99E999E9544.png"
+    },
+    {
+      "name": "05CE6879-1229-420C-BC75-EFAC479F916B.png",
+      "basename": "05CE6879-1229-420C-BC75-EFAC479F916B",
+      "relativePath": "@/05CE6879-1229-420C-BC75-EFAC479F916B.png"
+    },
+    {
+      "name": "0D678575-3C3C-4C97-91F8-B6F6B74FEEEA.png",
+      "basename": "0D678575-3C3C-4C97-91F8-B6F6B74FEEEA",
+      "relativePath": "@/0D678575-3C3C-4C97-91F8-B6F6B74FEEEA.png"
+    },
+    {
+      "name": "165DD80F-768F-4190-B75B-0806B4224DD0.png",
+      "basename": "165DD80F-768F-4190-B75B-0806B4224DD0",
+      "relativePath": "@/165DD80F-768F-4190-B75B-0806B4224DD0.png"
+    },
+    {
+      "name": "182E6456-21B5-4950-8BBA-449667283CE3.png",
+      "basename": "182E6456-21B5-4950-8BBA-449667283CE3",
+      "relativePath": "@/182E6456-21B5-4950-8BBA-449667283CE3.png"
+    },
+    {
+      "name": "20EECFE9-4978-483E-93C2-FA9931385A6D.png",
+      "basename": "20EECFE9-4978-483E-93C2-FA9931385A6D",
+      "relativePath": "@/20EECFE9-4978-483E-93C2-FA9931385A6D.png"
+    },
+    {
+      "name": "192AF3BE-0E93-48E0-9DA7-D99157A1B42A.png",
+      "basename": "192AF3BE-0E93-48E0-9DA7-D99157A1B42A",
+      "relativePath": "@/192AF3BE-0E93-48E0-9DA7-D99157A1B42A.png"
+    },
+    {
+      "name": "2A00E2FE-2998-48DE-B964-793EBF757639.png",
+      "basename": "2A00E2FE-2998-48DE-B964-793EBF757639",
+      "relativePath": "@/2A00E2FE-2998-48DE-B964-793EBF757639.png"
+    },
+    {
+      "name": "2AC890FB-D577-42EE-B3C5-AE063DF78AB8.png",
+      "basename": "2AC890FB-D577-42EE-B3C5-AE063DF78AB8",
+      "relativePath": "@/2AC890FB-D577-42EE-B3C5-AE063DF78AB8.png"
+    },
+    {
+      "name": "2B59E1B7-C5EA-4F5B-BD31-C60CD7B594A1.png",
+      "basename": "2B59E1B7-C5EA-4F5B-BD31-C60CD7B594A1",
+      "relativePath": "@/2B59E1B7-C5EA-4F5B-BD31-C60CD7B594A1.png"
+    },
+    {
+      "name": "2BE67D37-0B8F-4E7A-95B2-8ACB0693152D.png",
+      "basename": "2BE67D37-0B8F-4E7A-95B2-8ACB0693152D",
+      "relativePath": "@/2BE67D37-0B8F-4E7A-95B2-8ACB0693152D.png"
+    },
+    {
+      "name": "2C5687C5-213D-447F-B288-A6914C8C0096.png",
+      "basename": "2C5687C5-213D-447F-B288-A6914C8C0096",
+      "relativePath": "@/2C5687C5-213D-447F-B288-A6914C8C0096.png"
+    },
+    {
+      "name": "2D754CED-86D8-4F91-9C45-2B7FFA01607F.png",
+      "basename": "2D754CED-86D8-4F91-9C45-2B7FFA01607F",
+      "relativePath": "@/2D754CED-86D8-4F91-9C45-2B7FFA01607F.png"
+    },
+    {
+      "name": "2E21706C-6E89-4A8D-BC63-1E33A4C3654A.png",
+      "basename": "2E21706C-6E89-4A8D-BC63-1E33A4C3654A",
+      "relativePath": "@/2E21706C-6E89-4A8D-BC63-1E33A4C3654A.png"
+    },
+    {
+      "name": "2E6F167F-85EA-4A75-9210-59B8538F26B7.png",
+      "basename": "2E6F167F-85EA-4A75-9210-59B8538F26B7",
+      "relativePath": "@/2E6F167F-85EA-4A75-9210-59B8538F26B7.png"
+    },
+    {
+      "name": "2F916FBF-635E-4BDF-8693-E8CF99CA08E7.png",
+      "basename": "2F916FBF-635E-4BDF-8693-E8CF99CA08E7",
+      "relativePath": "@/2F916FBF-635E-4BDF-8693-E8CF99CA08E7.png"
+    },
+    {
+      "name": "3321ECE5-D89E-4A14-BB07-6ADD757EB96C.png",
+      "basename": "3321ECE5-D89E-4A14-BB07-6ADD757EB96C",
+      "relativePath": "@/3321ECE5-D89E-4A14-BB07-6ADD757EB96C.png"
+    },
+    {
+      "name": "343A3346-BD25-44D0-B353-99BD8D142B97.png",
+      "basename": "343A3346-BD25-44D0-B353-99BD8D142B97",
+      "relativePath": "@/343A3346-BD25-44D0-B353-99BD8D142B97.png"
+    },
+    {
+      "name": "374EF6E7-4046-47A0-80E7-C89FCFAC1964.png",
+      "basename": "374EF6E7-4046-47A0-80E7-C89FCFAC1964",
+      "relativePath": "@/374EF6E7-4046-47A0-80E7-C89FCFAC1964.png"
+    },
+    {
+      "name": "37BD124C-64CF-466E-9DC3-10F87037A8DE.png",
+      "basename": "37BD124C-64CF-466E-9DC3-10F87037A8DE",
+      "relativePath": "@/37BD124C-64CF-466E-9DC3-10F87037A8DE.png"
+    },
+    {
+      "name": "3B6AFEBF-AE80-4555-9740-270C3444A6A8.png",
+      "basename": "3B6AFEBF-AE80-4555-9740-270C3444A6A8",
+      "relativePath": "@/3B6AFEBF-AE80-4555-9740-270C3444A6A8.png"
+    },
+    {
+      "name": "3B85BC69-2DDE-4334-83CE-CC520A1DD44B 1.png",
+      "basename": "3B85BC69-2DDE-4334-83CE-CC520A1DD44B 1",
+      "relativePath": "@/3B85BC69-2DDE-4334-83CE-CC520A1DD44B 1.png"
+    },
+    {
+      "name": "3B85BC69-2DDE-4334-83CE-CC520A1DD44B.png",
+      "basename": "3B85BC69-2DDE-4334-83CE-CC520A1DD44B",
+      "relativePath": "@/3B85BC69-2DDE-4334-83CE-CC520A1DD44B.png"
+    },
+    {
+      "name": "3F6379DA-A0EC-4F20-A4B3-E205FEBEC1C6.png",
+      "basename": "3F6379DA-A0EC-4F20-A4B3-E205FEBEC1C6",
+      "relativePath": "@/3F6379DA-A0EC-4F20-A4B3-E205FEBEC1C6.png"
+    },
+    {
+      "name": "3FFA20AD-2535-4429-A525-33E81040C213.png",
+      "basename": "3FFA20AD-2535-4429-A525-33E81040C213",
+      "relativePath": "@/3FFA20AD-2535-4429-A525-33E81040C213.png"
+    },
+    {
+      "name": "4 • Repãca Set Members CS.png",
+      "basename": "4 • Repãca Set Members CS",
+      "relativePath": "@/4 • Repãca Set Members CS.png"
+    },
+    {
+      "name": "40DA4A8D-507E-4A39-B396-72CE086DB3F2.png",
+      "basename": "40DA4A8D-507E-4A39-B396-72CE086DB3F2",
+      "relativePath": "@/40DA4A8D-507E-4A39-B396-72CE086DB3F2.png"
+    },
+    {
+      "name": "4C36F027-3CA4-43CA-8CB4-8A510347D8A1.png",
+      "basename": "4C36F027-3CA4-43CA-8CB4-8A510347D8A1",
+      "relativePath": "@/4C36F027-3CA4-43CA-8CB4-8A510347D8A1.png"
+    },
+    {
+      "name": "4E882714-BCC5-4F18-8F56-83EEEDC51408.png",
+      "basename": "4E882714-BCC5-4F18-8F56-83EEEDC51408",
+      "relativePath": "@/4E882714-BCC5-4F18-8F56-83EEEDC51408.png"
+    },
+    {
+      "name": "53E55FDC-9DF9-43D0-98A9-12BF7197066A.png",
+      "basename": "53E55FDC-9DF9-43D0-98A9-12BF7197066A",
+      "relativePath": "@/53E55FDC-9DF9-43D0-98A9-12BF7197066A.png"
+    },
+    {
+      "name": "560B8364-ECF1-4515-8C65-A43054C3770A.png",
+      "basename": "560B8364-ECF1-4515-8C65-A43054C3770A",
+      "relativePath": "@/560B8364-ECF1-4515-8C65-A43054C3770A.png"
+    },
+    {
+      "name": "58752E62-31EB-403B-9AD8-67855F753166.png",
+      "basename": "58752E62-31EB-403B-9AD8-67855F753166",
+      "relativePath": "@/58752E62-31EB-403B-9AD8-67855F753166.png"
+    },
+    {
+      "name": "62793A5C-5EC0-4FB1-BECA-62E5CAC8CBBB.png",
+      "basename": "62793A5C-5EC0-4FB1-BECA-62E5CAC8CBBB",
+      "relativePath": "@/62793A5C-5EC0-4FB1-BECA-62E5CAC8CBBB.png"
+    },
+    {
+      "name": "64B65EAD-246E-4C94-8E00-8F4F5E57CFCA.png",
+      "basename": "64B65EAD-246E-4C94-8E00-8F4F5E57CFCA",
+      "relativePath": "@/64B65EAD-246E-4C94-8E00-8F4F5E57CFCA.png"
+    },
+    {
+      "name": "64BCF897-30B3-4605-8A84-C2A8EAF0504E.png",
+      "basename": "64BCF897-30B3-4605-8A84-C2A8EAF0504E",
+      "relativePath": "@/64BCF897-30B3-4605-8A84-C2A8EAF0504E.png"
+    },
+    {
+      "name": "65933E83-9AE0-4B21-B5D9-C657471C6012.png",
+      "basename": "65933E83-9AE0-4B21-B5D9-C657471C6012",
+      "relativePath": "@/65933E83-9AE0-4B21-B5D9-C657471C6012.png"
+    },
+    {
+      "name": "6C4E386B-47E8-402F-8B6C-12AED793CCB5.png",
+      "basename": "6C4E386B-47E8-402F-8B6C-12AED793CCB5",
+      "relativePath": "@/6C4E386B-47E8-402F-8B6C-12AED793CCB5.png"
+    },
+    {
+      "name": "6CBB2B1F-FF1C-47AD-BF5A-6A203575BFCB.png",
+      "basename": "6CBB2B1F-FF1C-47AD-BF5A-6A203575BFCB",
+      "relativePath": "@/6CBB2B1F-FF1C-47AD-BF5A-6A203575BFCB.png"
+    },
+    {
+      "name": "7103F2F9-12F1-497A-BD91-D0B4EFB379DA 1.png",
+      "basename": "7103F2F9-12F1-497A-BD91-D0B4EFB379DA 1",
+      "relativePath": "@/7103F2F9-12F1-497A-BD91-D0B4EFB379DA 1.png"
+    },
+    {
+      "name": "7103F2F9-12F1-497A-BD91-D0B4EFB379DA.png",
+      "basename": "7103F2F9-12F1-497A-BD91-D0B4EFB379DA",
+      "relativePath": "@/7103F2F9-12F1-497A-BD91-D0B4EFB379DA.png"
+    },
+    {
+      "name": "72C7B1CB-082A-40AA-9267-41B75A6B9BBD.png",
+      "basename": "72C7B1CB-082A-40AA-9267-41B75A6B9BBD",
+      "relativePath": "@/72C7B1CB-082A-40AA-9267-41B75A6B9BBD.png"
+    },
+    {
+      "name": "72DB689D-857E-43BC-BE0C-F4FCBA6F8DB7.png",
+      "basename": "72DB689D-857E-43BC-BE0C-F4FCBA6F8DB7",
+      "relativePath": "@/72DB689D-857E-43BC-BE0C-F4FCBA6F8DB7.png"
+    },
+    {
+      "name": "74AA0EAD-A89C-4AFF-9C7C-2316F4CC40F2.png",
+      "basename": "74AA0EAD-A89C-4AFF-9C7C-2316F4CC40F2",
+      "relativePath": "@/74AA0EAD-A89C-4AFF-9C7C-2316F4CC40F2.png"
+    },
+    {
+      "name": "7788A2EF-72FE-4D3A-B398-D40733890D4B.png",
+      "basename": "7788A2EF-72FE-4D3A-B398-D40733890D4B",
+      "relativePath": "@/7788A2EF-72FE-4D3A-B398-D40733890D4B.png"
+    },
+    {
+      "name": "77C43CC6-977C-492B-AC4D-36C5DDA50DFE.png",
+      "basename": "77C43CC6-977C-492B-AC4D-36C5DDA50DFE",
+      "relativePath": "@/77C43CC6-977C-492B-AC4D-36C5DDA50DFE.png"
+    },
+    {
+      "name": "7BDEEB07-1CF6-4E90-AA6E-24DEDEE4A034 1.png",
+      "basename": "7BDEEB07-1CF6-4E90-AA6E-24DEDEE4A034 1",
+      "relativePath": "@/7BDEEB07-1CF6-4E90-AA6E-24DEDEE4A034 1.png"
+    },
+    {
+      "name": "7BDEEB07-1CF6-4E90-AA6E-24DEDEE4A034.png",
+      "basename": "7BDEEB07-1CF6-4E90-AA6E-24DEDEE4A034",
+      "relativePath": "@/7BDEEB07-1CF6-4E90-AA6E-24DEDEE4A034.png"
+    },
+    {
+      "name": "82CF7B2C-5898-4923-A382-891F83F42CB2.png",
+      "basename": "82CF7B2C-5898-4923-A382-891F83F42CB2",
+      "relativePath": "@/82CF7B2C-5898-4923-A382-891F83F42CB2.png"
+    },
+    {
+      "name": "82DC92AD-57ED-43A4-A0C5-428ECB1B0B3E.png",
+      "basename": "82DC92AD-57ED-43A4-A0C5-428ECB1B0B3E",
+      "relativePath": "@/82DC92AD-57ED-43A4-A0C5-428ECB1B0B3E.png"
+    },
+    {
+      "name": "919E1A0A-C4BE-4B40-B74B-4330ED73FB4B.png",
+      "basename": "919E1A0A-C4BE-4B40-B74B-4330ED73FB4B",
+      "relativePath": "@/919E1A0A-C4BE-4B40-B74B-4330ED73FB4B.png"
+    },
+    {
+      "name": "924C3C1D-56F5-41A8-A617-72C1E3798E21.png",
+      "basename": "924C3C1D-56F5-41A8-A617-72C1E3798E21",
+      "relativePath": "@/924C3C1D-56F5-41A8-A617-72C1E3798E21.png"
+    },
+    {
+      "name": "939D912A-A9D4-4E8E-81EB-C3B30E1F2802.png",
+      "basename": "939D912A-A9D4-4E8E-81EB-C3B30E1F2802",
+      "relativePath": "@/939D912A-A9D4-4E8E-81EB-C3B30E1F2802.png"
+    },
+    {
+      "name": "93A6A654-FF12-4378-8FD7-122F225EA20B.png",
+      "basename": "93A6A654-FF12-4378-8FD7-122F225EA20B",
+      "relativePath": "@/93A6A654-FF12-4378-8FD7-122F225EA20B.png"
+    },
+    {
+      "name": "972418C8-A74D-4E67-9174-CDD27BF4C862 1.png",
+      "basename": "972418C8-A74D-4E67-9174-CDD27BF4C862 1",
+      "relativePath": "@/972418C8-A74D-4E67-9174-CDD27BF4C862 1.png"
+    },
+    {
+      "name": "972418C8-A74D-4E67-9174-CDD27BF4C862.png",
+      "basename": "972418C8-A74D-4E67-9174-CDD27BF4C862",
+      "relativePath": "@/972418C8-A74D-4E67-9174-CDD27BF4C862.png"
+    },
+    {
+      "name": "99ED80A9-40F5-4FDA-BB2D-ED80F8E080D4.png",
+      "basename": "99ED80A9-40F5-4FDA-BB2D-ED80F8E080D4",
+      "relativePath": "@/99ED80A9-40F5-4FDA-BB2D-ED80F8E080D4.png"
+    },
+    {
+      "name": "9E1C0E77-9066-485C-BA32-D04D4DB20FD6.pdf",
+      "basename": "9E1C0E77-9066-485C-BA32-D04D4DB20FD6",
+      "relativePath": "@/9E1C0E77-9066-485C-BA32-D04D4DB20FD6.pdf"
+    },
+    {
+      "name": "A0E5A696-5780-46F9-A5AD-CD4DCC7FF262.png",
+      "basename": "A0E5A696-5780-46F9-A5AD-CD4DCC7FF262",
+      "relativePath": "@/A0E5A696-5780-46F9-A5AD-CD4DCC7FF262.png"
+    },
+    {
+      "name": "A3F2A50F-C070-476A-BF7E-F3E4E2FE412D.png",
+      "basename": "A3F2A50F-C070-476A-BF7E-F3E4E2FE412D",
+      "relativePath": "@/A3F2A50F-C070-476A-BF7E-F3E4E2FE412D.png"
+    },
+    {
+      "name": "A5BD4D08-3AF9-4BBB-9F70-129A6ADAE792.png",
+      "basename": "A5BD4D08-3AF9-4BBB-9F70-129A6ADAE792",
+      "relativePath": "@/A5BD4D08-3AF9-4BBB-9F70-129A6ADAE792.png"
+    },
+    {
+      "name": "A6E06DA3-A220-4062-BC7A-D777942C1DF5.png",
+      "basename": "A6E06DA3-A220-4062-BC7A-D777942C1DF5",
+      "relativePath": "@/A6E06DA3-A220-4062-BC7A-D777942C1DF5.png"
+    },
+    {
+      "name": "A7BB5477-1E65-4BF0-A845-282707537881.png",
+      "basename": "A7BB5477-1E65-4BF0-A845-282707537881",
+      "relativePath": "@/A7BB5477-1E65-4BF0-A845-282707537881.png"
+    },
+    {
+      "name": "A8521FB9-212D-4F04-A4D1-8F77F97C8D36.png",
+      "basename": "A8521FB9-212D-4F04-A4D1-8F77F97C8D36",
+      "relativePath": "@/A8521FB9-212D-4F04-A4D1-8F77F97C8D36.png"
+    },
+    {
+      "name": "A98EE590-BF66-44A2-8F34-A17D7B9DDE38.png",
+      "basename": "A98EE590-BF66-44A2-8F34-A17D7B9DDE38",
+      "relativePath": "@/A98EE590-BF66-44A2-8F34-A17D7B9DDE38.png"
+    },
+    {
+      "name": "ADFFA241-AEEA-4355-909A-07C9A28C545F.png",
+      "basename": "ADFFA241-AEEA-4355-909A-07C9A28C545F",
+      "relativePath": "@/ADFFA241-AEEA-4355-909A-07C9A28C545F.png"
+    },
+    {
+      "name": "Avalara Active-Active MDB .Local.pptx",
+      "basename": "Avalara Active-Active MDB .Local",
+      "relativePath": "@/Avalara Active-Active MDB .Local.pptx"
+    },
+    {
+      "name": "B2183CC9-A7A0-4FFC-969F-ED2FC4E14172.png",
+      "basename": "B2183CC9-A7A0-4FFC-969F-ED2FC4E14172",
+      "relativePath": "@/B2183CC9-A7A0-4FFC-969F-ED2FC4E14172.png"
+    },
+    {
+      "name": "B354147E-D3DB-4ADA-B8B2-CD5801F4AF82.png",
+      "basename": "B354147E-D3DB-4ADA-B8B2-CD5801F4AF82",
+      "relativePath": "@/B354147E-D3DB-4ADA-B8B2-CD5801F4AF82.png"
+    },
+    {
+      "name": "BC0C00C5-C7E0-4501-8D5F-E7393CBCDC64.png",
+      "basename": "BC0C00C5-C7E0-4501-8D5F-E7393CBCDC64",
+      "relativePath": "@/BC0C00C5-C7E0-4501-8D5F-E7393CBCDC64.png"
+    },
+    {
+      "name": "BF3EE2A2-C56F-41EF-BAC3-AB358C7AFC11.png",
+      "basename": "BF3EE2A2-C56F-41EF-BAC3-AB358C7AFC11",
+      "relativePath": "@/BF3EE2A2-C56F-41EF-BAC3-AB358C7AFC11.png"
+    },
+    {
+      "name": "C2765C8F-70CB-4A09-B0CB-8F9154397DD1.png",
+      "basename": "C2765C8F-70CB-4A09-B0CB-8F9154397DD1",
+      "relativePath": "@/C2765C8F-70CB-4A09-B0CB-8F9154397DD1.png"
+    },
+    {
+      "name": "C2AFE0E5-F5E2-42EB-ACE6-B4E4E6330A20.png",
+      "basename": "C2AFE0E5-F5E2-42EB-ACE6-B4E4E6330A20",
+      "relativePath": "@/C2AFE0E5-F5E2-42EB-ACE6-B4E4E6330A20.png"
+    },
+    {
+      "name": "C5FBEDE0-B15B-40BF-8763-58C611F17BAA.png",
+      "basename": "C5FBEDE0-B15B-40BF-8763-58C611F17BAA",
+      "relativePath": "@/C5FBEDE0-B15B-40BF-8763-58C611F17BAA.png"
+    },
+    {
+      "name": "C653DD7D-3F42-4CD6-B649-0425B34D080E.png",
+      "basename": "C653DD7D-3F42-4CD6-B649-0425B34D080E",
+      "relativePath": "@/C653DD7D-3F42-4CD6-B649-0425B34D080E.png"
+    },
+    {
+      "name": "C9A4C888-ADE2-4907-93B2-D658ECF15E1B.png",
+      "basename": "C9A4C888-ADE2-4907-93B2-D658ECF15E1B",
+      "relativePath": "@/C9A4C888-ADE2-4907-93B2-D658ECF15E1B.png"
+    },
+    {
+      "name": "CD742A23-D055-49EF-AFD4-DB47105DDF46.png",
+      "basename": "CD742A23-D055-49EF-AFD4-DB47105DDF46",
+      "relativePath": "@/CD742A23-D055-49EF-AFD4-DB47105DDF46.png"
+    },
+    {
+      "name": "Components.png",
+      "basename": "Components",
+      "relativePath": "@/Components.png"
+    },
+    {
+      "name": "D7A7413D-0CD6-4479-ABC9-DBCC9116543A.png",
+      "basename": "D7A7413D-0CD6-4479-ABC9-DBCC9116543A",
+      "relativePath": "@/D7A7413D-0CD6-4479-ABC9-DBCC9116543A.png"
+    },
+    {
+      "name": "DA7A491F-8FAE-442B-9212-0615A36513C4.png",
+      "basename": "DA7A491F-8FAE-442B-9212-0615A36513C4",
+      "relativePath": "@/DA7A491F-8FAE-442B-9212-0615A36513C4.png"
+    },
+    {
+      "name": "DAFDB85F-CBBB-4E75-8C42-C1778B164168.png",
+      "basename": "DAFDB85F-CBBB-4E75-8C42-C1778B164168",
+      "relativePath": "@/DAFDB85F-CBBB-4E75-8C42-C1778B164168.png"
+    },
+    {
+      "name": "DBB53B03-8CA8-47F8-84DD-46FBF454F932.png",
+      "basename": "DBB53B03-8CA8-47F8-84DD-46FBF454F932",
+      "relativePath": "@/DBB53B03-8CA8-47F8-84DD-46FBF454F932.png"
+    },
+    {
+      "name": "DCF99F8D-9EC3-4DEF-943B-2B31821BE43A.png",
+      "basename": "DCF99F8D-9EC3-4DEF-943B-2B31821BE43A",
+      "relativePath": "@/DCF99F8D-9EC3-4DEF-943B-2B31821BE43A.png"
+    },
+    {
+      "name": "DEB7C18A-F5C0-45B3-995D-B93DA3D027E8.png",
+      "basename": "DEB7C18A-F5C0-45B3-995D-B93DA3D027E8",
+      "relativePath": "@/DEB7C18A-F5C0-45B3-995D-B93DA3D027E8.png"
+    },
+    {
+      "name": "E12F7887-C10C-43F3-8E17-311DA60BB388.png",
+      "basename": "E12F7887-C10C-43F3-8E17-311DA60BB388",
+      "relativePath": "@/E12F7887-C10C-43F3-8E17-311DA60BB388.png"
+    },
+    {
+      "name": "E3F9EE19-E72A-4217-A877-45F028DA4283.png",
+      "basename": "E3F9EE19-E72A-4217-A877-45F028DA4283",
+      "relativePath": "@/E3F9EE19-E72A-4217-A877-45F028DA4283.png"
+    },
+    {
+      "name": "E5204CAD-C0EE-4791-AFC2-70F4F9ACC790.png",
+      "basename": "E5204CAD-C0EE-4791-AFC2-70F4F9ACC790",
+      "relativePath": "@/E5204CAD-C0EE-4791-AFC2-70F4F9ACC790.png"
+    },
+    {
+      "name": "E9428C25-197C-4245-8410-FCA172FE021B.png",
+      "basename": "E9428C25-197C-4245-8410-FCA172FE021B",
+      "relativePath": "@/E9428C25-197C-4245-8410-FCA172FE021B.png"
+    },
+    {
+      "name": "EAD023D2-DB92-48DC-B8C7-DD48146A8C23.png",
+      "basename": "EAD023D2-DB92-48DC-B8C7-DD48146A8C23",
+      "relativePath": "@/EAD023D2-DB92-48DC-B8C7-DD48146A8C23.png"
+    },
+    {
+      "name": "EECBB3EB-E245-4084-BBB4-5C16D650B138.png",
+      "basename": "EECBB3EB-E245-4084-BBB4-5C16D650B138",
+      "relativePath": "@/EECBB3EB-E245-4084-BBB4-5C16D650B138.png"
+    },
+    {
+      "name": "F00AA57C-C709-47AB-958C-3BEC58FEF2B1.png",
+      "basename": "F00AA57C-C709-47AB-958C-3BEC58FEF2B1",
+      "relativePath": "@/F00AA57C-C709-47AB-958C-3BEC58FEF2B1.png"
+    },
+    {
+      "name": "F60B5DA6-1795-4B8B-8A7D-DCB68113A675.png",
+      "basename": "F60B5DA6-1795-4B8B-8A7D-DCB68113A675",
+      "relativePath": "@/F60B5DA6-1795-4B8B-8A7D-DCB68113A675.png"
+    },
+    {
+      "name": "F9490B78-340F-43DA-845D-7C99B50C03C4.png",
+      "basename": "F9490B78-340F-43DA-845D-7C99B50C03C4",
+      "relativePath": "@/F9490B78-340F-43DA-845D-7C99B50C03C4.png"
+    },
+    {
+      "name": "F9C9D8A3-53F8-4421-960A-3CED02C7235F.png",
+      "basename": "F9C9D8A3-53F8-4421-960A-3CED02C7235F",
+      "relativePath": "@/F9C9D8A3-53F8-4421-960A-3CED02C7235F.png"
+    },
+    {
+      "name": "FF41CDC0-2A2E-4E86-AFCF-33CDDEDAA227.png",
+      "basename": "FF41CDC0-2A2E-4E86-AFCF-33CDDEDAA227",
+      "relativePath": "@/FF41CDC0-2A2E-4E86-AFCF-33CDDEDAA227.png"
+    },
+    {
+      "name": "FFDF0B89-7833-4E5E-9774-834D5144BDC7.pdf",
+      "basename": "FFDF0B89-7833-4E5E-9774-834D5144BDC7",
+      "relativePath": "@/FFDF0B89-7833-4E5E-9774-834D5144BDC7.pdf"
+    },
+    {
+      "name": "IMG_1125.jpeg",
+      "basename": "IMG_1125",
+      "relativePath": "@/IMG_1125.jpeg"
+    },
+    {
+      "name": "Pasted Graphic 1.png",
+      "basename": "Pasted Graphic 1",
+      "relativePath": "@/Pasted Graphic 1.png"
+    },
+    {
+      "name": "Pasted Graphic 5.png",
+      "basename": "Pasted Graphic 5",
+      "relativePath": "@/Pasted Graphic 5.png"
+    },
+    {
+      "name": "Pasted Graphic-1.png",
+      "basename": "Pasted Graphic-1",
+      "relativePath": "@/Pasted Graphic-1.png"
+    },
+    {
+      "name": "Pasted Graphic.png",
+      "basename": "Pasted Graphic",
+      "relativePath": "@/Pasted Graphic.png"
+    },
+    {
+      "name": "Pasted Image 20260111155959_294.png",
+      "basename": "Pasted Image 20260111155959_294",
+      "relativePath": "@/Pasted Image 20260111155959_294.png"
+    },
+    {
+      "name": "Pasted Image 20260111155959_318.png",
+      "basename": "Pasted Image 20260111155959_318",
+      "relativePath": "@/Pasted Image 20260111155959_318.png"
+    },
+    {
+      "name": "Pasted Image 20260111155959_327.png",
+      "basename": "Pasted Image 20260111155959_327",
+      "relativePath": "@/Pasted Image 20260111155959_327.png"
+    },
+    {
+      "name": "Pasted Image 20260111155959_330.png",
+      "basename": "Pasted Image 20260111155959_330",
+      "relativePath": "@/Pasted Image 20260111155959_330.png"
+    },
+    {
+      "name": "Pasted Image 20260111155959_333.png",
+      "basename": "Pasted Image 20260111155959_333",
+      "relativePath": "@/Pasted Image 20260111155959_333.png"
+    },
+    {
+      "name": "Pasted Image 20260111155959_336.png",
+      "basename": "Pasted Image 20260111155959_336",
+      "relativePath": "@/Pasted Image 20260111155959_336.png"
+    },
+    {
+      "name": "Pasted Image 20260111155959_339.png",
+      "basename": "Pasted Image 20260111155959_339",
+      "relativePath": "@/Pasted Image 20260111155959_339.png"
+    },
+    {
+      "name": "Pasted Image 20260111155959_342.png",
+      "basename": "Pasted Image 20260111155959_342",
+      "relativePath": "@/Pasted Image 20260111155959_342.png"
+    },
+    {
+      "name": "Pasted Image 20260111155959_344.png",
+      "basename": "Pasted Image 20260111155959_344",
+      "relativePath": "@/Pasted Image 20260111155959_344.png"
+    },
+    {
+      "name": "Pasted Image 20260111155959_345.png",
+      "basename": "Pasted Image 20260111155959_345",
+      "relativePath": "@/Pasted Image 20260111155959_345.png"
+    },
+    {
+      "name": "Pasted Image 20260111155959_346.png",
+      "basename": "Pasted Image 20260111155959_346",
+      "relativePath": "@/Pasted Image 20260111155959_346.png"
+    },
+    {
+      "name": "Pasted Image 20260116142526_120.png",
+      "basename": "Pasted Image 20260116142526_120",
+      "relativePath": "@/Pasted Image 20260116142526_120.png"
+    },
+    {
+      "name": "Pasted Image 20260118155237_238.png",
+      "basename": "Pasted Image 20260118155237_238",
+      "relativePath": "@/Pasted Image 20260118155237_238.png"
+    },
+    {
+      "name": "Pasted Image 20260118155237_245.png",
+      "basename": "Pasted Image 20260118155237_245",
+      "relativePath": "@/Pasted Image 20260118155237_245.png"
+    },
+    {
+      "name": "Pasted Image 20260118163000_612.png",
+      "basename": "Pasted Image 20260118163000_612",
+      "relativePath": "@/Pasted Image 20260118163000_612.png"
+    },
+    {
+      "name": "Pasted Image 20260118163332_702.png",
+      "basename": "Pasted Image 20260118163332_702",
+      "relativePath": "@/Pasted Image 20260118163332_702.png"
+    },
+    {
+      "name": "Pasted Image 20260118164145_486.png",
+      "basename": "Pasted Image 20260118164145_486",
+      "relativePath": "@/Pasted Image 20260118164145_486.png"
+    },
+    {
+      "name": "Pasted Image 20260226161220_324.png",
+      "basename": "Pasted Image 20260226161220_324",
+      "relativePath": "@/Pasted Image 20260226161220_324.png"
+    },
+    {
+      "name": "Pasted Image 20260226161224_188.png",
+      "basename": "Pasted Image 20260226161224_188",
+      "relativePath": "@/Pasted Image 20260226161224_188.png"
+    },
+    {
+      "name": "Pasted Image 20260226163745_047.png",
+      "basename": "Pasted Image 20260226163745_047",
+      "relativePath": "@/Pasted Image 20260226163745_047.png"
+    },
+    {
+      "name": "Pasted Image 20260226163745_060.png",
+      "basename": "Pasted Image 20260226163745_060",
+      "relativePath": "@/Pasted Image 20260226163745_060.png"
+    },
+    {
+      "name": "Pasted Image 20260226163745_065.png",
+      "basename": "Pasted Image 20260226163745_065",
+      "relativePath": "@/Pasted Image 20260226163745_065.png"
+    },
+    {
+      "name": "Pasted Image 20260226163903_098.png",
+      "basename": "Pasted Image 20260226163903_098",
+      "relativePath": "@/Pasted Image 20260226163903_098.png"
+    },
+    {
+      "name": "Pasted Image 20260226163906_245.png",
+      "basename": "Pasted Image 20260226163906_245",
+      "relativePath": "@/Pasted Image 20260226163906_245.png"
+    },
+    {
+      "name": "Pasted Image 20260226163906_253.png",
+      "basename": "Pasted Image 20260226163906_253",
+      "relativePath": "@/Pasted Image 20260226163906_253.png"
+    },
+    {
+      "name": "Pasted Image 20260226163906_260.png",
+      "basename": "Pasted Image 20260226163906_260",
+      "relativePath": "@/Pasted Image 20260226163906_260.png"
+    },
+    {
+      "name": "Pasted Image 20260226163941_275.png",
+      "basename": "Pasted Image 20260226163941_275",
+      "relativePath": "@/Pasted Image 20260226163941_275.png"
+    },
+    {
+      "name": "Pasted Image 20260226164026_377.png",
+      "basename": "Pasted Image 20260226164026_377",
+      "relativePath": "@/Pasted Image 20260226164026_377.png"
+    },
+    {
+      "name": "Pasted Image 20260226164026_391.png",
+      "basename": "Pasted Image 20260226164026_391",
+      "relativePath": "@/Pasted Image 20260226164026_391.png"
+    },
+    {
+      "name": "Pasted Image 20260226164026_394.png",
+      "basename": "Pasted Image 20260226164026_394",
+      "relativePath": "@/Pasted Image 20260226164026_394.png"
+    },
+    {
+      "name": "Pasted Image 20260226164026_398.png",
+      "basename": "Pasted Image 20260226164026_398",
+      "relativePath": "@/Pasted Image 20260226164026_398.png"
+    },
+    {
+      "name": "Pasted Image 20260226164026_400.png",
+      "basename": "Pasted Image 20260226164026_400",
+      "relativePath": "@/Pasted Image 20260226164026_400.png"
+    },
+    {
+      "name": "Pasted Image 20260226164026_402.png",
+      "basename": "Pasted Image 20260226164026_402",
+      "relativePath": "@/Pasted Image 20260226164026_402.png"
+    },
+    {
+      "name": "Pasted Image 20260226164026_404.png",
+      "basename": "Pasted Image 20260226164026_404",
+      "relativePath": "@/Pasted Image 20260226164026_404.png"
+    },
+    {
+      "name": "Pasted Image 20260226164026_407.png",
+      "basename": "Pasted Image 20260226164026_407",
+      "relativePath": "@/Pasted Image 20260226164026_407.png"
+    },
+    {
+      "name": "Pasted Image 20260226164042_520.png",
+      "basename": "Pasted Image 20260226164042_520",
+      "relativePath": "@/Pasted Image 20260226164042_520.png"
+    },
+    {
+      "name": "Pasted Image 20260226164042_535.png",
+      "basename": "Pasted Image 20260226164042_535",
+      "relativePath": "@/Pasted Image 20260226164042_535.png"
+    },
+    {
+      "name": "Pasted Image 20260226164042_537.png",
+      "basename": "Pasted Image 20260226164042_537",
+      "relativePath": "@/Pasted Image 20260226164042_537.png"
+    },
+    {
+      "name": "Pasted Image 20260226164042_539.png",
+      "basename": "Pasted Image 20260226164042_539",
+      "relativePath": "@/Pasted Image 20260226164042_539.png"
+    },
+    {
+      "name": "Pasted Image 20260226164042_542.png",
+      "basename": "Pasted Image 20260226164042_542",
+      "relativePath": "@/Pasted Image 20260226164042_542.png"
+    },
+    {
+      "name": "Pasted Image 20260226164042_544.png",
+      "basename": "Pasted Image 20260226164042_544",
+      "relativePath": "@/Pasted Image 20260226164042_544.png"
+    },
+    {
+      "name": "Pasted Image 20260226164042_545.png",
+      "basename": "Pasted Image 20260226164042_545",
+      "relativePath": "@/Pasted Image 20260226164042_545.png"
+    },
+    {
+      "name": "Pasted Image 20260226164042_547.png",
+      "basename": "Pasted Image 20260226164042_547",
+      "relativePath": "@/Pasted Image 20260226164042_547.png"
+    },
+    {
+      "name": "Pasted Image 20260226164042_549.png",
+      "basename": "Pasted Image 20260226164042_549",
+      "relativePath": "@/Pasted Image 20260226164042_549.png"
+    },
+    {
+      "name": "Pasted Image 20260226164042_550.png",
+      "basename": "Pasted Image 20260226164042_550",
+      "relativePath": "@/Pasted Image 20260226164042_550.png"
+    },
+    {
+      "name": "Pasted Image 20260226164042_552.png",
+      "basename": "Pasted Image 20260226164042_552",
+      "relativePath": "@/Pasted Image 20260226164042_552.png"
+    },
+    {
+      "name": "Pasted Image 20260226164056_936.png",
+      "basename": "Pasted Image 20260226164056_936",
+      "relativePath": "@/Pasted Image 20260226164056_936.png"
+    },
+    {
+      "name": "Pasted Image 20260226164056_949.png",
+      "basename": "Pasted Image 20260226164056_949",
+      "relativePath": "@/Pasted Image 20260226164056_949.png"
+    },
+    {
+      "name": "Pasted Image 20260226164056_952.png",
+      "basename": "Pasted Image 20260226164056_952",
+      "relativePath": "@/Pasted Image 20260226164056_952.png"
+    },
+    {
+      "name": "Pasted Image 20260226164056_954.png",
+      "basename": "Pasted Image 20260226164056_954",
+      "relativePath": "@/Pasted Image 20260226164056_954.png"
+    },
+    {
+      "name": "Pasted Image 20260226164056_957.png",
+      "basename": "Pasted Image 20260226164056_957",
+      "relativePath": "@/Pasted Image 20260226164056_957.png"
+    },
+    {
+      "name": "Pasted Image 20260226164056_959.png",
+      "basename": "Pasted Image 20260226164056_959",
+      "relativePath": "@/Pasted Image 20260226164056_959.png"
+    },
+    {
+      "name": "Pasted Image 20260226164056_960.png",
+      "basename": "Pasted Image 20260226164056_960",
+      "relativePath": "@/Pasted Image 20260226164056_960.png"
+    },
+    {
+      "name": "Pasted Image 20260226164056_962.png",
+      "basename": "Pasted Image 20260226164056_962",
+      "relativePath": "@/Pasted Image 20260226164056_962.png"
+    },
+    {
+      "name": "Pasted Image 20260226164056_979.png",
+      "basename": "Pasted Image 20260226164056_979",
+      "relativePath": "@/Pasted Image 20260226164056_979.png"
+    },
+    {
+      "name": "Pasted Image 20260226164056_985.png",
+      "basename": "Pasted Image 20260226164056_985",
+      "relativePath": "@/Pasted Image 20260226164056_985.png"
+    },
+    {
+      "name": "Pasted Image 20260226164056_987.png",
+      "basename": "Pasted Image 20260226164056_987",
+      "relativePath": "@/Pasted Image 20260226164056_987.png"
+    },
+    {
+      "name": "Pasted Image 20260226164056_989.png",
+      "basename": "Pasted Image 20260226164056_989",
+      "relativePath": "@/Pasted Image 20260226164056_989.png"
+    },
+    {
+      "name": "Pasted Image 20260226164056_991.png",
+      "basename": "Pasted Image 20260226164056_991",
+      "relativePath": "@/Pasted Image 20260226164056_991.png"
+    },
+    {
+      "name": "Pasted Image 20260226164056_993.png",
+      "basename": "Pasted Image 20260226164056_993",
+      "relativePath": "@/Pasted Image 20260226164056_993.png"
+    },
+    {
+      "name": "Pasted Image 20260226164056_995.png",
+      "basename": "Pasted Image 20260226164056_995",
+      "relativePath": "@/Pasted Image 20260226164056_995.png"
+    },
+    {
+      "name": "Pasted Image 20260226164056_997.png",
+      "basename": "Pasted Image 20260226164056_997",
+      "relativePath": "@/Pasted Image 20260226164056_997.png"
+    },
+    {
+      "name": "Pasted Image 20260226164057_003.png",
+      "basename": "Pasted Image 20260226164057_003",
+      "relativePath": "@/Pasted Image 20260226164057_003.png"
+    },
+    {
+      "name": "Pasted Image 20260226164057_010.png",
+      "basename": "Pasted Image 20260226164057_010",
+      "relativePath": "@/Pasted Image 20260226164057_010.png"
+    },
+    {
+      "name": "Pasted Image 20260226164057_013.png",
+      "basename": "Pasted Image 20260226164057_013",
+      "relativePath": "@/Pasted Image 20260226164057_013.png"
+    },
+    {
+      "name": "Pasted Image 20260226164057_018.png",
+      "basename": "Pasted Image 20260226164057_018",
+      "relativePath": "@/Pasted Image 20260226164057_018.png"
+    },
+    {
+      "name": "Pasted Image 20260226164057_020.png",
+      "basename": "Pasted Image 20260226164057_020",
+      "relativePath": "@/Pasted Image 20260226164057_020.png"
+    },
+    {
+      "name": "Pasted Image 20260226164057_022.png",
+      "basename": "Pasted Image 20260226164057_022",
+      "relativePath": "@/Pasted Image 20260226164057_022.png"
+    },
+    {
+      "name": "Pasted Image 20260226164057_024.png",
+      "basename": "Pasted Image 20260226164057_024",
+      "relativePath": "@/Pasted Image 20260226164057_024.png"
+    },
+    {
+      "name": "Pasted Image 20260226164057_025.png",
+      "basename": "Pasted Image 20260226164057_025",
+      "relativePath": "@/Pasted Image 20260226164057_025.png"
+    },
+    {
+      "name": "Pasted Image 20260226164057_027.png",
+      "basename": "Pasted Image 20260226164057_027",
+      "relativePath": "@/Pasted Image 20260226164057_027.png"
+    },
+    {
+      "name": "Pasted Image 20260423094019_530.png",
+      "basename": "Pasted Image 20260423094019_530",
+      "relativePath": "@/Pasted Image 20260423094019_530.png"
+    },
+    {
+      "name": "Pasted Image 20260423094019_541.png",
+      "basename": "Pasted Image 20260423094019_541",
+      "relativePath": "@/Pasted Image 20260423094019_541.png"
+    },
+    {
+      "name": "Pasted Image 20260423094019_546.png",
+      "basename": "Pasted Image 20260423094019_546",
+      "relativePath": "@/Pasted Image 20260423094019_546.png"
+    },
+    {
+      "name": "Pasted Image 20260423094019_550.png",
+      "basename": "Pasted Image 20260423094019_550",
+      "relativePath": "@/Pasted Image 20260423094019_550.png"
+    },
+    {
+      "name": "Pasted Image 20260423094019_553.png",
+      "basename": "Pasted Image 20260423094019_553",
+      "relativePath": "@/Pasted Image 20260423094019_553.png"
+    },
+    {
+      "name": "Pasted Image 20260423094019_557.png",
+      "basename": "Pasted Image 20260423094019_557",
+      "relativePath": "@/Pasted Image 20260423094019_557.png"
+    },
+    {
+      "name": "Pasted Image 20260423094019_561.png",
+      "basename": "Pasted Image 20260423094019_561",
+      "relativePath": "@/Pasted Image 20260423094019_561.png"
+    },
+    {
+      "name": "Pasted Image 20260423141401_367.png",
+      "basename": "Pasted Image 20260423141401_367",
+      "relativePath": "@/Pasted Image 20260423141401_367.png"
+    },
+    {
+      "name": "Pasted Image 20260423142315_629.png",
+      "basename": "Pasted Image 20260423142315_629",
+      "relativePath": "@/Pasted Image 20260423142315_629.png"
+    },
+    {
+      "name": "Pasted Image 20260429203225_292.png",
+      "basename": "Pasted Image 20260429203225_292",
+      "relativePath": "@/Pasted Image 20260429203225_292.png"
+    },
+    {
+      "name": "Pasted Image 20260429204343_217.png",
+      "basename": "Pasted Image 20260429204343_217",
+      "relativePath": "@/Pasted Image 20260429204343_217.png"
+    },
+    {
+      "name": "Pasted Image 20260429211315_934.png",
+      "basename": "Pasted Image 20260429211315_934",
+      "relativePath": "@/Pasted Image 20260429211315_934.png"
+    },
+    {
+      "name": "Pasted Image 20260429211407_360.png",
+      "basename": "Pasted Image 20260429211407_360",
+      "relativePath": "@/Pasted Image 20260429211407_360.png"
+    },
+    {
+      "name": "Pasted Image 20260429211437_268.png",
+      "basename": "Pasted Image 20260429211437_268",
+      "relativePath": "@/Pasted Image 20260429211437_268.png"
+    },
+    {
+      "name": "Pasted Image 20260429211506_710.png",
+      "basename": "Pasted Image 20260429211506_710",
+      "relativePath": "@/Pasted Image 20260429211506_710.png"
+    },
+    {
+      "name": "Pasted Image 20260429211749_096.png",
+      "basename": "Pasted Image 20260429211749_096",
+      "relativePath": "@/Pasted Image 20260429211749_096.png"
+    },
+    {
+      "name": "Pasted Image 20260429212333_367.png",
+      "basename": "Pasted Image 20260429212333_367",
+      "relativePath": "@/Pasted Image 20260429212333_367.png"
+    },
+    {
+      "name": "Pasted Image 20260429213028_023.png",
+      "basename": "Pasted Image 20260429213028_023",
+      "relativePath": "@/Pasted Image 20260429213028_023.png"
+    },
+    {
+      "name": "Pasted Image 20260429213058_595.png",
+      "basename": "Pasted Image 20260429213058_595",
+      "relativePath": "@/Pasted Image 20260429213058_595.png"
+    },
+    {
+      "name": "Pasted Image 20260429213255_137.png",
+      "basename": "Pasted Image 20260429213255_137",
+      "relativePath": "@/Pasted Image 20260429213255_137.png"
+    },
+    {
+      "name": "Pasted Image 20260429213555_984.png",
+      "basename": "Pasted Image 20260429213555_984",
+      "relativePath": "@/Pasted Image 20260429213555_984.png"
+    },
+    {
+      "name": "Pasted Image 20260429214203_219.png",
+      "basename": "Pasted Image 20260429214203_219",
+      "relativePath": "@/Pasted Image 20260429214203_219.png"
+    },
+    {
+      "name": "Pasted Image 20260429214351_691.png",
+      "basename": "Pasted Image 20260429214351_691",
+      "relativePath": "@/Pasted Image 20260429214351_691.png"
+    },
+    {
+      "name": "Pasted Image 20260430155924_309.png",
+      "basename": "Pasted Image 20260430155924_309",
+      "relativePath": "@/Pasted Image 20260430155924_309.png"
+    },
+    {
+      "name": "Pasted Image 20260430155927_494.png",
+      "basename": "Pasted Image 20260430155927_494",
+      "relativePath": "@/Pasted Image 20260430155927_494.png"
+    },
+    {
+      "name": "Pasted Image 20260430215157_511.png",
+      "basename": "Pasted Image 20260430215157_511",
+      "relativePath": "@/Pasted Image 20260430215157_511.png"
+    },
+    {
+      "name": "Pasted Image 20260430215159_921.png",
+      "basename": "Pasted Image 20260430215159_921",
+      "relativePath": "@/Pasted Image 20260430215159_921.png"
+    },
+    {
+      "name": "Pasted Image 20260430215635_076.png",
+      "basename": "Pasted Image 20260430215635_076",
+      "relativePath": "@/Pasted Image 20260430215635_076.png"
+    },
+    {
+      "name": "Pasted Image 20260503235902_625.png",
+      "basename": "Pasted Image 20260503235902_625",
+      "relativePath": "@/Pasted Image 20260503235902_625.png"
+    },
+    {
+      "name": "Pasted Image 20260507131623_397.png",
+      "basename": "Pasted Image 20260507131623_397",
+      "relativePath": "@/Pasted Image 20260507131623_397.png"
+    },
+    {
+      "name": "Pasted Image 20260507131625_956.png",
+      "basename": "Pasted Image 20260507131625_956",
+      "relativePath": "@/Pasted Image 20260507131625_956.png"
+    },
+    {
+      "name": "Pasted Image 20260507131632_939.png",
+      "basename": "Pasted Image 20260507131632_939",
+      "relativePath": "@/Pasted Image 20260507131632_939.png"
+    },
+    {
+      "name": "Pasted Image 20260507131852_758.png",
+      "basename": "Pasted Image 20260507131852_758",
+      "relativePath": "@/Pasted Image 20260507131852_758.png"
+    },
+    {
+      "name": "Pasted Image 20260507131855_767.png",
+      "basename": "Pasted Image 20260507131855_767",
+      "relativePath": "@/Pasted Image 20260507131855_767.png"
+    },
+    {
+      "name": "Pasted Image 20260507131908_606.png",
+      "basename": "Pasted Image 20260507131908_606",
+      "relativePath": "@/Pasted Image 20260507131908_606.png"
+    },
+    {
+      "name": "Pasted Image 20260507132002_586.png",
+      "basename": "Pasted Image 20260507132002_586",
+      "relativePath": "@/Pasted Image 20260507132002_586.png"
+    },
+    {
+      "name": "Pasted Image 20260507132053_356.png",
+      "basename": "Pasted Image 20260507132053_356",
+      "relativePath": "@/Pasted Image 20260507132053_356.png"
+    },
+    {
+      "name": "Pasted Image 20260507144034_956.png",
+      "basename": "Pasted Image 20260507144034_956",
+      "relativePath": "@/Pasted Image 20260507144034_956.png"
+    },
+    {
+      "name": "Pasted Image 20260507144706_658.png",
+      "basename": "Pasted Image 20260507144706_658",
+      "relativePath": "@/Pasted Image 20260507144706_658.png"
+    },
+    {
+      "name": "Pasted Image 20260507145949_520.png",
+      "basename": "Pasted Image 20260507145949_520",
+      "relativePath": "@/Pasted Image 20260507145949_520.png"
+    },
+    {
+      "name": "Pasted Image 20260507150044_715.png",
+      "basename": "Pasted Image 20260507150044_715",
+      "relativePath": "@/Pasted Image 20260507150044_715.png"
+    },
+    {
+      "name": "Pasted Image 20260507163227_874.png",
+      "basename": "Pasted Image 20260507163227_874",
+      "relativePath": "@/Pasted Image 20260507163227_874.png"
+    },
+    {
+      "name": "Pasted Image 20260509133352_380.png",
+      "basename": "Pasted Image 20260509133352_380",
+      "relativePath": "@/Pasted Image 20260509133352_380.png"
+    },
+    {
+      "name": "Pasted image 20260117162947.png",
+      "basename": "Pasted image 20260117162947",
+      "relativePath": "@/Pasted image 20260117162947.png"
+    },
+    {
+      "name": "Pasted image 20260130114804.png",
+      "basename": "Pasted image 20260130114804",
+      "relativePath": "@/Pasted image 20260130114804.png"
+    },
+    {
+      "name": "TEST ALERTS (alex.svatukhin).png",
+      "basename": "TEST ALERTS (alex.svatukhin)",
+      "relativePath": "@/TEST ALERTS (alex.svatukhin).png"
+    },
+    {
+      "name": "Triage Stage.png",
+      "basename": "Triage Stage",
+      "relativePath": "@/Triage Stage.png"
+    },
+    {
+      "name": "how does mfa work implemented code in browser is it a library.png",
+      "basename": "how does mfa work implemented code in browser is it a library",
+      "relativePath": "@/how does mfa work implemented code in browser is it a library.png"
+    },
+    {
+      "name": "image-1.png",
+      "basename": "image-1",
+      "relativePath": "@/image-1.png"
+    },
+    {
+      "name": "image-10.png",
+      "basename": "image-10",
+      "relativePath": "@/image-10.png"
+    },
+    {
+      "name": "image-11.png",
+      "basename": "image-11",
+      "relativePath": "@/image-11.png"
+    },
+    {
+      "name": "image-12.png",
+      "basename": "image-12",
+      "relativePath": "@/image-12.png"
+    },
+    {
+      "name": "image-13.png",
+      "basename": "image-13",
+      "relativePath": "@/image-13.png"
+    },
+    {
+      "name": "image-14.png",
+      "basename": "image-14",
+      "relativePath": "@/image-14.png"
+    },
+    {
+      "name": "image-15.png",
+      "basename": "image-15",
+      "relativePath": "@/image-15.png"
+    },
+    {
+      "name": "image-16.png",
+      "basename": "image-16",
+      "relativePath": "@/image-16.png"
+    },
+    {
+      "name": "image-17.png",
+      "basename": "image-17",
+      "relativePath": "@/image-17.png"
+    },
+    {
+      "name": "image-18.png",
+      "basename": "image-18",
+      "relativePath": "@/image-18.png"
+    },
+    {
+      "name": "image-19.png",
+      "basename": "image-19",
+      "relativePath": "@/image-19.png"
+    },
+    {
+      "name": "image-2.png",
+      "basename": "image-2",
+      "relativePath": "@/image-2.png"
+    },
+    {
+      "name": "image-20.png",
+      "basename": "image-20",
+      "relativePath": "@/image-20.png"
+    },
+    {
+      "name": "image-21.png",
+      "basename": "image-21",
+      "relativePath": "@/image-21.png"
+    },
+    {
+      "name": "image-22.png",
+      "basename": "image-22",
+      "relativePath": "@/image-22.png"
+    },
+    {
+      "name": "image-23.png",
+      "basename": "image-23",
+      "relativePath": "@/image-23.png"
+    },
+    {
+      "name": "image-24.png",
+      "basename": "image-24",
+      "relativePath": "@/image-24.png"
+    },
+    {
+      "name": "image-25.png",
+      "basename": "image-25",
+      "relativePath": "@/image-25.png"
+    },
+    {
+      "name": "image-26.png",
+      "basename": "image-26",
+      "relativePath": "@/image-26.png"
+    },
+    {
+      "name": "image-27.png",
+      "basename": "image-27",
+      "relativePath": "@/image-27.png"
+    },
+    {
+      "name": "image-28.png",
+      "basename": "image-28",
+      "relativePath": "@/image-28.png"
+    },
+    {
+      "name": "image-29.png",
+      "basename": "image-29",
+      "relativePath": "@/image-29.png"
+    },
+    {
+      "name": "image-3.png",
+      "basename": "image-3",
+      "relativePath": "@/image-3.png"
+    },
+    {
+      "name": "image-30.png",
+      "basename": "image-30",
+      "relativePath": "@/image-30.png"
+    },
+    {
+      "name": "image-31.png",
+      "basename": "image-31",
+      "relativePath": "@/image-31.png"
+    },
+    {
+      "name": "image-32.png",
+      "basename": "image-32",
+      "relativePath": "@/image-32.png"
+    },
+    {
+      "name": "image-33.png",
+      "basename": "image-33",
+      "relativePath": "@/image-33.png"
+    },
+    {
+      "name": "image-34.png",
+      "basename": "image-34",
+      "relativePath": "@/image-34.png"
+    },
+    {
+      "name": "image-35.png",
+      "basename": "image-35",
+      "relativePath": "@/image-35.png"
+    },
+    {
+      "name": "image-36.png",
+      "basename": "image-36",
+      "relativePath": "@/image-36.png"
+    },
+    {
+      "name": "image-37.png",
+      "basename": "image-37",
+      "relativePath": "@/image-37.png"
+    },
+    {
+      "name": "image-38.png",
+      "basename": "image-38",
+      "relativePath": "@/image-38.png"
+    },
+    {
+      "name": "image-39.png",
+      "basename": "image-39",
+      "relativePath": "@/image-39.png"
+    },
+    {
+      "name": "image-4.png",
+      "basename": "image-4",
+      "relativePath": "@/image-4.png"
+    },
+    {
+      "name": "image-40.png",
+      "basename": "image-40",
+      "relativePath": "@/image-40.png"
+    },
+    {
+      "name": "image-41.png",
+      "basename": "image-41",
+      "relativePath": "@/image-41.png"
+    },
+    {
+      "name": "image-42.png",
+      "basename": "image-42",
+      "relativePath": "@/image-42.png"
+    },
+    {
+      "name": "image-43.png",
+      "basename": "image-43",
+      "relativePath": "@/image-43.png"
+    },
+    {
+      "name": "image-44.png",
+      "basename": "image-44",
+      "relativePath": "@/image-44.png"
+    },
+    {
+      "name": "image-45.png",
+      "basename": "image-45",
+      "relativePath": "@/image-45.png"
+    },
+    {
+      "name": "image-46.png",
+      "basename": "image-46",
+      "relativePath": "@/image-46.png"
+    },
+    {
+      "name": "image-47.png",
+      "basename": "image-47",
+      "relativePath": "@/image-47.png"
+    },
+    {
+      "name": "image-48.png",
+      "basename": "image-48",
+      "relativePath": "@/image-48.png"
+    },
+    {
+      "name": "image-49.png",
+      "basename": "image-49",
+      "relativePath": "@/image-49.png"
+    },
+    {
+      "name": "image-5.png",
+      "basename": "image-5",
+      "relativePath": "@/image-5.png"
+    },
+    {
+      "name": "image-50.png",
+      "basename": "image-50",
+      "relativePath": "@/image-50.png"
+    },
+    {
+      "name": "image-51.png",
+      "basename": "image-51",
+      "relativePath": "@/image-51.png"
+    },
+    {
+      "name": "image-52.png",
+      "basename": "image-52",
+      "relativePath": "@/image-52.png"
+    },
+    {
+      "name": "image-6.png",
+      "basename": "image-6",
+      "relativePath": "@/image-6.png"
+    },
+    {
+      "name": "image-7.png",
+      "basename": "image-7",
+      "relativePath": "@/image-7.png"
+    },
+    {
+      "name": "image-8.png",
+      "basename": "image-8",
+      "relativePath": "@/image-8.png"
+    },
+    {
+      "name": "image-9.png",
+      "basename": "image-9",
+      "relativePath": "@/image-9.png"
+    },
+    {
+      "name": "image.png",
+      "basename": "image",
+      "relativePath": "@/image.png"
+    },
+    {
+      "name": "research_change_streams.canvas",
+      "basename": "research_change_streams",
+      "relativePath": "research/change_streams/research_change_streams.canvas"
+    },
+    {
+      "name": "claude_skills.canvas",
+      "basename": "claude_skills",
+      "relativePath": "research/claude_skills/claude_skills.canvas"
+    },
+    {
+      "name": "claude on mongotune.canvas",
+      "basename": "claude on mongotune",
+      "relativePath": "research/mongotune/claude on mongotune.canvas"
+    },
+    {
+      "name": "mongotune map.canvas",
+      "basename": "mongotune map",
+      "relativePath": "research/mongotune/mongotune map.canvas"
+    },
+    {
+      "name": "✱ Rate Limiters.canvas",
+      "basename": "✱ Rate Limiters",
+      "relativePath": "research/mongotune/✱ Rate Limiters.canvas"
+    },
+    {
+      "name": "Untitled.canvas",
+      "basename": "Untitled",
+      "relativePath": "research/rate_limiters/Untitled.canvas"
+    },
+    {
+      "name": "Pasted image 20260403172554.png",
+      "basename": "Pasted image 20260403172554",
+      "relativePath": "research/sharding_readPreference/Pasted image 20260403172554.png"
+    },
+    {
+      "name": "Untitled.canvas",
+      "basename": "Untitled",
+      "relativePath": "research/sharding_readPreference/Untitled.canvas"
+    },
+    {
+      "name": "transactions.canvas",
+      "basename": "transactions",
+      "relativePath": "research/transactions/transactions.canvas"
+    },
+    {
+      "name": "00D95F24-282B-4612-84B2-8EE56413D6FB.png",
+      "basename": "00D95F24-282B-4612-84B2-8EE56413D6FB",
+      "relativePath": "cases/Archive (2025)/Attachments/00D95F24-282B-4612-84B2-8EE56413D6FB.png"
+    },
+    {
+      "name": "0100667B-F642-4D38-B126-9AC834C4730D.png",
+      "basename": "0100667B-F642-4D38-B126-9AC834C4730D",
+      "relativePath": "cases/Archive (2025)/Attachments/0100667B-F642-4D38-B126-9AC834C4730D.png"
+    },
+    {
+      "name": "02EF5012-9662-4714-82CA-01D2782E9029.png",
+      "basename": "02EF5012-9662-4714-82CA-01D2782E9029",
+      "relativePath": "cases/Archive (2025)/Attachments/02EF5012-9662-4714-82CA-01D2782E9029.png"
+    },
+    {
+      "name": "03357AC4-0F70-4EDA-BDB7-D99E999E9544.png",
+      "basename": "03357AC4-0F70-4EDA-BDB7-D99E999E9544",
+      "relativePath": "cases/Archive (2025)/Attachments/03357AC4-0F70-4EDA-BDB7-D99E999E9544.png"
+    },
+    {
+      "name": "05CE6879-1229-420C-BC75-EFAC479F916B.png",
+      "basename": "05CE6879-1229-420C-BC75-EFAC479F916B",
+      "relativePath": "cases/Archive (2025)/Attachments/05CE6879-1229-420C-BC75-EFAC479F916B.png"
+    },
+    {
+      "name": "165DD80F-768F-4190-B75B-0806B4224DD0.png",
+      "basename": "165DD80F-768F-4190-B75B-0806B4224DD0",
+      "relativePath": "cases/Archive (2025)/Attachments/165DD80F-768F-4190-B75B-0806B4224DD0.png"
+    },
+    {
+      "name": "182E6456-21B5-4950-8BBA-449667283CE3.png",
+      "basename": "182E6456-21B5-4950-8BBA-449667283CE3",
+      "relativePath": "cases/Archive (2025)/Attachments/182E6456-21B5-4950-8BBA-449667283CE3.png"
+    },
+    {
+      "name": "2AC890FB-D577-42EE-B3C5-AE063DF78AB8.png",
+      "basename": "2AC890FB-D577-42EE-B3C5-AE063DF78AB8",
+      "relativePath": "cases/Archive (2025)/Attachments/2AC890FB-D577-42EE-B3C5-AE063DF78AB8.png"
+    },
+    {
+      "name": "2B59E1B7-C5EA-4F5B-BD31-C60CD7B594A1.png",
+      "basename": "2B59E1B7-C5EA-4F5B-BD31-C60CD7B594A1",
+      "relativePath": "cases/Archive (2025)/Attachments/2B59E1B7-C5EA-4F5B-BD31-C60CD7B594A1.png"
+    },
+    {
+      "name": "2BE67D37-0B8F-4E7A-95B2-8ACB0693152D.png",
+      "basename": "2BE67D37-0B8F-4E7A-95B2-8ACB0693152D",
+      "relativePath": "cases/Archive (2025)/Attachments/2BE67D37-0B8F-4E7A-95B2-8ACB0693152D.png"
+    },
+    {
+      "name": "2E21706C-6E89-4A8D-BC63-1E33A4C3654A.png",
+      "basename": "2E21706C-6E89-4A8D-BC63-1E33A4C3654A",
+      "relativePath": "cases/Archive (2025)/Attachments/2E21706C-6E89-4A8D-BC63-1E33A4C3654A.png"
+    },
+    {
+      "name": "37BD124C-64CF-466E-9DC3-10F87037A8DE.png",
+      "basename": "37BD124C-64CF-466E-9DC3-10F87037A8DE",
+      "relativePath": "cases/Archive (2025)/Attachments/37BD124C-64CF-466E-9DC3-10F87037A8DE.png"
+    },
+    {
+      "name": "3B6AFEBF-AE80-4555-9740-270C3444A6A8.png",
+      "basename": "3B6AFEBF-AE80-4555-9740-270C3444A6A8",
+      "relativePath": "cases/Archive (2025)/Attachments/3B6AFEBF-AE80-4555-9740-270C3444A6A8.png"
+    },
+    {
+      "name": "3F6379DA-A0EC-4F20-A4B3-E205FEBEC1C6.png",
+      "basename": "3F6379DA-A0EC-4F20-A4B3-E205FEBEC1C6",
+      "relativePath": "cases/Archive (2025)/Attachments/3F6379DA-A0EC-4F20-A4B3-E205FEBEC1C6.png"
+    },
+    {
+      "name": "3FFA20AD-2535-4429-A525-33E81040C213.png",
+      "basename": "3FFA20AD-2535-4429-A525-33E81040C213",
+      "relativePath": "cases/Archive (2025)/Attachments/3FFA20AD-2535-4429-A525-33E81040C213.png"
+    },
+    {
+      "name": "40DA4A8D-507E-4A39-B396-72CE086DB3F2.png",
+      "basename": "40DA4A8D-507E-4A39-B396-72CE086DB3F2",
+      "relativePath": "cases/Archive (2025)/Attachments/40DA4A8D-507E-4A39-B396-72CE086DB3F2.png"
+    },
+    {
+      "name": "4C36F027-3CA4-43CA-8CB4-8A510347D8A1.png",
+      "basename": "4C36F027-3CA4-43CA-8CB4-8A510347D8A1",
+      "relativePath": "cases/Archive (2025)/Attachments/4C36F027-3CA4-43CA-8CB4-8A510347D8A1.png"
+    },
+    {
+      "name": "62793A5C-5EC0-4FB1-BECA-62E5CAC8CBBB.png",
+      "basename": "62793A5C-5EC0-4FB1-BECA-62E5CAC8CBBB",
+      "relativePath": "cases/Archive (2025)/Attachments/62793A5C-5EC0-4FB1-BECA-62E5CAC8CBBB.png"
+    },
+    {
+      "name": "64B65EAD-246E-4C94-8E00-8F4F5E57CFCA.png",
+      "basename": "64B65EAD-246E-4C94-8E00-8F4F5E57CFCA",
+      "relativePath": "cases/Archive (2025)/Attachments/64B65EAD-246E-4C94-8E00-8F4F5E57CFCA.png"
+    },
+    {
+      "name": "64BCF897-30B3-4605-8A84-C2A8EAF0504E.png",
+      "basename": "64BCF897-30B3-4605-8A84-C2A8EAF0504E",
+      "relativePath": "cases/Archive (2025)/Attachments/64BCF897-30B3-4605-8A84-C2A8EAF0504E.png"
+    },
+    {
+      "name": "6C4E386B-47E8-402F-8B6C-12AED793CCB5.png",
+      "basename": "6C4E386B-47E8-402F-8B6C-12AED793CCB5",
+      "relativePath": "cases/Archive (2025)/Attachments/6C4E386B-47E8-402F-8B6C-12AED793CCB5.png"
+    },
+    {
+      "name": "72C7B1CB-082A-40AA-9267-41B75A6B9BBD.png",
+      "basename": "72C7B1CB-082A-40AA-9267-41B75A6B9BBD",
+      "relativePath": "cases/Archive (2025)/Attachments/72C7B1CB-082A-40AA-9267-41B75A6B9BBD.png"
+    },
+    {
+      "name": "74AA0EAD-A89C-4AFF-9C7C-2316F4CC40F2.png",
+      "basename": "74AA0EAD-A89C-4AFF-9C7C-2316F4CC40F2",
+      "relativePath": "cases/Archive (2025)/Attachments/74AA0EAD-A89C-4AFF-9C7C-2316F4CC40F2.png"
+    },
+    {
+      "name": "7788A2EF-72FE-4D3A-B398-D40733890D4B.png",
+      "basename": "7788A2EF-72FE-4D3A-B398-D40733890D4B",
+      "relativePath": "cases/Archive (2025)/Attachments/7788A2EF-72FE-4D3A-B398-D40733890D4B.png"
+    },
+    {
+      "name": "82CF7B2C-5898-4923-A382-891F83F42CB2.png",
+      "basename": "82CF7B2C-5898-4923-A382-891F83F42CB2",
+      "relativePath": "cases/Archive (2025)/Attachments/82CF7B2C-5898-4923-A382-891F83F42CB2.png"
+    },
+    {
+      "name": "919E1A0A-C4BE-4B40-B74B-4330ED73FB4B.png",
+      "basename": "919E1A0A-C4BE-4B40-B74B-4330ED73FB4B",
+      "relativePath": "cases/Archive (2025)/Attachments/919E1A0A-C4BE-4B40-B74B-4330ED73FB4B.png"
+    },
+    {
+      "name": "924C3C1D-56F5-41A8-A617-72C1E3798E21.png",
+      "basename": "924C3C1D-56F5-41A8-A617-72C1E3798E21",
+      "relativePath": "cases/Archive (2025)/Attachments/924C3C1D-56F5-41A8-A617-72C1E3798E21.png"
+    },
+    {
+      "name": "93A6A654-FF12-4378-8FD7-122F225EA20B.png",
+      "basename": "93A6A654-FF12-4378-8FD7-122F225EA20B",
+      "relativePath": "cases/Archive (2025)/Attachments/93A6A654-FF12-4378-8FD7-122F225EA20B.png"
+    },
+    {
+      "name": "99ED80A9-40F5-4FDA-BB2D-ED80F8E080D4.png",
+      "basename": "99ED80A9-40F5-4FDA-BB2D-ED80F8E080D4",
+      "relativePath": "cases/Archive (2025)/Attachments/99ED80A9-40F5-4FDA-BB2D-ED80F8E080D4.png"
+    },
+    {
+      "name": "9E1C0E77-9066-485C-BA32-D04D4DB20FD6.pdf",
+      "basename": "9E1C0E77-9066-485C-BA32-D04D4DB20FD6",
+      "relativePath": "cases/Archive (2025)/Attachments/9E1C0E77-9066-485C-BA32-D04D4DB20FD6.pdf"
+    },
+    {
+      "name": "A3F2A50F-C070-476A-BF7E-F3E4E2FE412D.png",
+      "basename": "A3F2A50F-C070-476A-BF7E-F3E4E2FE412D",
+      "relativePath": "cases/Archive (2025)/Attachments/A3F2A50F-C070-476A-BF7E-F3E4E2FE412D.png"
+    },
+    {
+      "name": "A5BD4D08-3AF9-4BBB-9F70-129A6ADAE792.png",
+      "basename": "A5BD4D08-3AF9-4BBB-9F70-129A6ADAE792",
+      "relativePath": "cases/Archive (2025)/Attachments/A5BD4D08-3AF9-4BBB-9F70-129A6ADAE792.png"
+    },
+    {
+      "name": "A6E06DA3-A220-4062-BC7A-D777942C1DF5.png",
+      "basename": "A6E06DA3-A220-4062-BC7A-D777942C1DF5",
+      "relativePath": "cases/Archive (2025)/Attachments/A6E06DA3-A220-4062-BC7A-D777942C1DF5.png"
+    },
+    {
+      "name": "A8521FB9-212D-4F04-A4D1-8F77F97C8D36.png",
+      "basename": "A8521FB9-212D-4F04-A4D1-8F77F97C8D36",
+      "relativePath": "cases/Archive (2025)/Attachments/A8521FB9-212D-4F04-A4D1-8F77F97C8D36.png"
+    },
+    {
+      "name": "A98EE590-BF66-44A2-8F34-A17D7B9DDE38.png",
+      "basename": "A98EE590-BF66-44A2-8F34-A17D7B9DDE38",
+      "relativePath": "cases/Archive (2025)/Attachments/A98EE590-BF66-44A2-8F34-A17D7B9DDE38.png"
+    },
+    {
+      "name": "B2183CC9-A7A0-4FFC-969F-ED2FC4E14172.png",
+      "basename": "B2183CC9-A7A0-4FFC-969F-ED2FC4E14172",
+      "relativePath": "cases/Archive (2025)/Attachments/B2183CC9-A7A0-4FFC-969F-ED2FC4E14172.png"
+    },
+    {
+      "name": "B354147E-D3DB-4ADA-B8B2-CD5801F4AF82.png",
+      "basename": "B354147E-D3DB-4ADA-B8B2-CD5801F4AF82",
+      "relativePath": "cases/Archive (2025)/Attachments/B354147E-D3DB-4ADA-B8B2-CD5801F4AF82.png"
+    },
+    {
+      "name": "BF3EE2A2-C56F-41EF-BAC3-AB358C7AFC11.png",
+      "basename": "BF3EE2A2-C56F-41EF-BAC3-AB358C7AFC11",
+      "relativePath": "cases/Archive (2025)/Attachments/BF3EE2A2-C56F-41EF-BAC3-AB358C7AFC11.png"
+    },
+    {
+      "name": "C2765C8F-70CB-4A09-B0CB-8F9154397DD1.png",
+      "basename": "C2765C8F-70CB-4A09-B0CB-8F9154397DD1",
+      "relativePath": "cases/Archive (2025)/Attachments/C2765C8F-70CB-4A09-B0CB-8F9154397DD1.png"
+    },
+    {
+      "name": "C2AFE0E5-F5E2-42EB-ACE6-B4E4E6330A20.png",
+      "basename": "C2AFE0E5-F5E2-42EB-ACE6-B4E4E6330A20",
+      "relativePath": "cases/Archive (2025)/Attachments/C2AFE0E5-F5E2-42EB-ACE6-B4E4E6330A20.png"
+    },
+    {
+      "name": "C653DD7D-3F42-4CD6-B649-0425B34D080E.png",
+      "basename": "C653DD7D-3F42-4CD6-B649-0425B34D080E",
+      "relativePath": "cases/Archive (2025)/Attachments/C653DD7D-3F42-4CD6-B649-0425B34D080E.png"
+    },
+    {
+      "name": "D7A7413D-0CD6-4479-ABC9-DBCC9116543A.png",
+      "basename": "D7A7413D-0CD6-4479-ABC9-DBCC9116543A",
+      "relativePath": "cases/Archive (2025)/Attachments/D7A7413D-0CD6-4479-ABC9-DBCC9116543A.png"
+    },
+    {
+      "name": "DCF99F8D-9EC3-4DEF-943B-2B31821BE43A.png",
+      "basename": "DCF99F8D-9EC3-4DEF-943B-2B31821BE43A",
+      "relativePath": "cases/Archive (2025)/Attachments/DCF99F8D-9EC3-4DEF-943B-2B31821BE43A.png"
+    },
+    {
+      "name": "DEB7C18A-F5C0-45B3-995D-B93DA3D027E8.png",
+      "basename": "DEB7C18A-F5C0-45B3-995D-B93DA3D027E8",
+      "relativePath": "cases/Archive (2025)/Attachments/DEB7C18A-F5C0-45B3-995D-B93DA3D027E8.png"
+    },
+    {
+      "name": "E12F7887-C10C-43F3-8E17-311DA60BB388.png",
+      "basename": "E12F7887-C10C-43F3-8E17-311DA60BB388",
+      "relativePath": "cases/Archive (2025)/Attachments/E12F7887-C10C-43F3-8E17-311DA60BB388.png"
+    },
+    {
+      "name": "E3F9EE19-E72A-4217-A877-45F028DA4283.png",
+      "basename": "E3F9EE19-E72A-4217-A877-45F028DA4283",
+      "relativePath": "cases/Archive (2025)/Attachments/E3F9EE19-E72A-4217-A877-45F028DA4283.png"
+    },
+    {
+      "name": "E5204CAD-C0EE-4791-AFC2-70F4F9ACC790.png",
+      "basename": "E5204CAD-C0EE-4791-AFC2-70F4F9ACC790",
+      "relativePath": "cases/Archive (2025)/Attachments/E5204CAD-C0EE-4791-AFC2-70F4F9ACC790.png"
+    },
+    {
+      "name": "EECBB3EB-E245-4084-BBB4-5C16D650B138.png",
+      "basename": "EECBB3EB-E245-4084-BBB4-5C16D650B138",
+      "relativePath": "cases/Archive (2025)/Attachments/EECBB3EB-E245-4084-BBB4-5C16D650B138.png"
+    },
+    {
+      "name": "F60B5DA6-1795-4B8B-8A7D-DCB68113A675.png",
+      "basename": "F60B5DA6-1795-4B8B-8A7D-DCB68113A675",
+      "relativePath": "cases/Archive (2025)/Attachments/F60B5DA6-1795-4B8B-8A7D-DCB68113A675.png"
+    },
+    {
+      "name": "F9490B78-340F-43DA-845D-7C99B50C03C4.png",
+      "basename": "F9490B78-340F-43DA-845D-7C99B50C03C4",
+      "relativePath": "cases/Archive (2025)/Attachments/F9490B78-340F-43DA-845D-7C99B50C03C4.png"
+    },
+    {
+      "name": "FF41CDC0-2A2E-4E86-AFCF-33CDDEDAA227.png",
+      "basename": "FF41CDC0-2A2E-4E86-AFCF-33CDDEDAA227",
+      "relativePath": "cases/Archive (2025)/Attachments/FF41CDC0-2A2E-4E86-AFCF-33CDDEDAA227.png"
+    },
+    {
+      "name": "0185F4B4-A1D4-4ACE-9B82-50B4AC52A4A6.jpeg",
+      "basename": "0185F4B4-A1D4-4ACE-9B82-50B4AC52A4A6",
+      "relativePath": "days/archive/Attachments/0185F4B4-A1D4-4ACE-9B82-50B4AC52A4A6.jpeg"
+    },
+    {
+      "name": "4447473D-8C39-41F1-AA7E-8DF9B4E8E818.png",
+      "basename": "4447473D-8C39-41F1-AA7E-8DF9B4E8E818",
+      "relativePath": "days/archive/Attachments/4447473D-8C39-41F1-AA7E-8DF9B4E8E818.png"
+    },
+    {
+      "name": "5CDD5E20-735A-409C-B2A0-1907E068D94A.png",
+      "basename": "5CDD5E20-735A-409C-B2A0-1907E068D94A",
+      "relativePath": "days/archive/Attachments/5CDD5E20-735A-409C-B2A0-1907E068D94A.png"
+    },
+    {
+      "name": "A456A1EA-603B-4BD4-9010-303F092D2B2F.png",
+      "basename": "A456A1EA-603B-4BD4-9010-303F092D2B2F",
+      "relativePath": "days/archive/Attachments/A456A1EA-603B-4BD4-9010-303F092D2B2F.png"
+    },
+    {
+      "name": "F00AA57C-C709-47AB-958C-3BEC58FEF2B1.png",
+      "basename": "F00AA57C-C709-47AB-958C-3BEC58FEF2B1",
+      "relativePath": "research/app_services/Attachments/F00AA57C-C709-47AB-958C-3BEC58FEF2B1.png"
+    },
+    {
+      "name": "2A00E2FE-2998-48DE-B964-793EBF757639.png",
+      "basename": "2A00E2FE-2998-48DE-B964-793EBF757639",
+      "relativePath": "research/change_streams/Attachments/2A00E2FE-2998-48DE-B964-793EBF757639.png"
+    },
+    {
+      "name": "ADFFA241-AEEA-4355-909A-07C9A28C545F.png",
+      "basename": "ADFFA241-AEEA-4355-909A-07C9A28C545F",
+      "relativePath": "research/change_streams/Attachments/ADFFA241-AEEA-4355-909A-07C9A28C545F.png"
+    },
+    {
+      "name": "3321ECE5-D89E-4A14-BB07-6ADD757EB96C.png",
+      "basename": "3321ECE5-D89E-4A14-BB07-6ADD757EB96C",
+      "relativePath": "research/core mongodb 2024/Attachments/3321ECE5-D89E-4A14-BB07-6ADD757EB96C.png"
+    },
+    {
+      "name": "4E882714-BCC5-4F18-8F56-83EEEDC51408.png",
+      "basename": "4E882714-BCC5-4F18-8F56-83EEEDC51408",
+      "relativePath": "research/core mongodb 2024/Attachments/4E882714-BCC5-4F18-8F56-83EEEDC51408.png"
+    },
+    {
+      "name": "65933E83-9AE0-4B21-B5D9-C657471C6012.png",
+      "basename": "65933E83-9AE0-4B21-B5D9-C657471C6012",
+      "relativePath": "research/core mongodb 2024/Attachments/65933E83-9AE0-4B21-B5D9-C657471C6012.png"
+    },
+    {
+      "name": "871EB18D-75AA-4AA7-9AE0-6B30661A1F9A.png",
+      "basename": "871EB18D-75AA-4AA7-9AE0-6B30661A1F9A",
+      "relativePath": "research/core mongodb 2024/Attachments/871EB18D-75AA-4AA7-9AE0-6B30661A1F9A.png"
+    },
+    {
+      "name": "FFDF0B89-7833-4E5E-9774-834D5144BDC7.pdf",
+      "basename": "FFDF0B89-7833-4E5E-9774-834D5144BDC7",
+      "relativePath": "research/core mongodb 2024/Attachments/FFDF0B89-7833-4E5E-9774-834D5144BDC7.pdf"
+    },
+    {
+      "name": "Pasted Image 20260116142526_120.png",
+      "basename": "Pasted Image 20260116142526_120",
+      "relativePath": "research/mongotune/@/Pasted Image 20260116142526_120.png"
+    },
+    {
+      "name": "Pasted Image 20260118155237_238.png",
+      "basename": "Pasted Image 20260118155237_238",
+      "relativePath": "research/mongotune/@/Pasted Image 20260118155237_238.png"
+    },
+    {
+      "name": "Pasted Graphic.png",
+      "basename": "Pasted Graphic",
+      "relativePath": "research/mongotune/@/Pasted Graphic.png"
+    },
+    {
+      "name": "Pasted Image 20260118155237_245.png",
+      "basename": "Pasted Image 20260118155237_245",
+      "relativePath": "research/mongotune/@/Pasted Image 20260118155237_245.png"
+    },
+    {
+      "name": "Pasted Image 20260118163000_612.png",
+      "basename": "Pasted Image 20260118163000_612",
+      "relativePath": "research/mongotune/@/Pasted Image 20260118163000_612.png"
+    },
+    {
+      "name": "Pasted Image 20260118163332_702.png",
+      "basename": "Pasted Image 20260118163332_702",
+      "relativePath": "research/mongotune/@/Pasted Image 20260118163332_702.png"
+    },
+    {
+      "name": "Pasted Image 20260118164145_486.png",
+      "basename": "Pasted Image 20260118164145_486",
+      "relativePath": "research/mongotune/@/Pasted Image 20260118164145_486.png"
+    },
+    {
+      "name": "Pasted image 20260111155017.png",
+      "basename": "Pasted image 20260111155017",
+      "relativePath": "research/mongotune/@/Pasted image 20260111155017.png"
+    },
+    {
+      "name": "Pasted image 20260111155104.png",
+      "basename": "Pasted image 20260111155104",
+      "relativePath": "research/mongotune/@/Pasted image 20260111155104.png"
+    },
+    {
+      "name": "Pasted image 20260111155111.png",
+      "basename": "Pasted image 20260111155111",
+      "relativePath": "research/mongotune/@/Pasted image 20260111155111.png"
+    },
+    {
+      "name": "Pasted image 20260111164602.png",
+      "basename": "Pasted image 20260111164602",
+      "relativePath": "research/mongotune/@/Pasted image 20260111164602.png"
+    },
+    {
+      "name": "Pasted image 20260111164618.png",
+      "basename": "Pasted image 20260111164618",
+      "relativePath": "research/mongotune/@/Pasted image 20260111164618.png"
+    },
+    {
+      "name": "Pasted image 20260113214406.png",
+      "basename": "Pasted image 20260113214406",
+      "relativePath": "research/mongotune/@/Pasted image 20260113214406.png"
+    },
+    {
+      "name": "Pasted image 20260113214619.png",
+      "basename": "Pasted image 20260113214619",
+      "relativePath": "research/mongotune/@/Pasted image 20260113214619.png"
+    },
+    {
+      "name": "Pasted image 20260113220122.png",
+      "basename": "Pasted image 20260113220122",
+      "relativePath": "research/mongotune/@/Pasted image 20260113220122.png"
+    },
+    {
+      "name": "Pasted image 20260113220345.png",
+      "basename": "Pasted image 20260113220345",
+      "relativePath": "research/mongotune/@/Pasted image 20260113220345.png"
+    },
+    {
+      "name": "Pasted image 20260114100932.png",
+      "basename": "Pasted image 20260114100932",
+      "relativePath": "research/mongotune/@/Pasted image 20260114100932.png"
+    },
+    {
+      "name": "Pasted image 20260117143757.png",
+      "basename": "Pasted image 20260117143757",
+      "relativePath": "research/mongotune/@/Pasted image 20260117143757.png"
+    },
+    {
+      "name": "Pasted image 20260117143851.png",
+      "basename": "Pasted image 20260117143851",
+      "relativePath": "research/mongotune/@/Pasted image 20260117143851.png"
+    },
+    {
+      "name": "Pasted image 20260117145956.png",
+      "basename": "Pasted image 20260117145956",
+      "relativePath": "research/mongotune/@/Pasted image 20260117145956.png"
+    },
+    {
+      "name": "Pasted image 20260118113912.png",
+      "basename": "Pasted image 20260118113912",
+      "relativePath": "research/mongotune/@/Pasted image 20260118113912.png"
+    },
+    {
+      "name": "Pasted image 20260118161419.png",
+      "basename": "Pasted image 20260118161419",
+      "relativePath": "research/mongotune/@/Pasted image 20260118161419.png"
+    },
+    {
+      "name": "Pasted image 20260129132908.png",
+      "basename": "Pasted image 20260129132908",
+      "relativePath": "research/mongotune/@/Pasted image 20260129132908.png"
+    },
+    {
+      "name": "Pasted image 20260129132920.png",
+      "basename": "Pasted image 20260129132920",
+      "relativePath": "research/mongotune/@/Pasted image 20260129132920.png"
+    },
+    {
+      "name": "Pasted image 20260129133406.png",
+      "basename": "Pasted image 20260129133406",
+      "relativePath": "research/mongotune/@/Pasted image 20260129133406.png"
+    },
+    {
+      "name": "Pasted image 20260129133422.png",
+      "basename": "Pasted image 20260129133422",
+      "relativePath": "research/mongotune/@/Pasted image 20260129133422.png"
+    },
+    {
+      "name": "Pasted image 20260129133532.png",
+      "basename": "Pasted image 20260129133532",
+      "relativePath": "research/mongotune/@/Pasted image 20260129133532.png"
+    },
+    {
+      "name": "Pasted image 20260129133542.png",
+      "basename": "Pasted image 20260129133542",
+      "relativePath": "research/mongotune/@/Pasted image 20260129133542.png"
+    },
+    {
+      "name": "Pasted image 20260129133602.png",
+      "basename": "Pasted image 20260129133602",
+      "relativePath": "research/mongotune/@/Pasted image 20260129133602.png"
+    },
+    {
+      "name": "Pasted image 20260129133619.png",
+      "basename": "Pasted image 20260129133619",
+      "relativePath": "research/mongotune/@/Pasted image 20260129133619.png"
+    },
+    {
+      "name": "Pasted image 20260129133631.png",
+      "basename": "Pasted image 20260129133631",
+      "relativePath": "research/mongotune/@/Pasted image 20260129133631.png"
+    },
+    {
+      "name": "Pasted image 20260129133641.png",
+      "basename": "Pasted image 20260129133641",
+      "relativePath": "research/mongotune/@/Pasted image 20260129133641.png"
+    },
+    {
+      "name": "Pasted image 20260129133702.png",
+      "basename": "Pasted image 20260129133702",
+      "relativePath": "research/mongotune/@/Pasted image 20260129133702.png"
+    },
+    {
+      "name": "Pasted image 20260129133832.png",
+      "basename": "Pasted image 20260129133832",
+      "relativePath": "research/mongotune/@/Pasted image 20260129133832.png"
+    },
+    {
+      "name": "Pasted image 20260129133906.png",
+      "basename": "Pasted image 20260129133906",
+      "relativePath": "research/mongotune/@/Pasted image 20260129133906.png"
+    },
+    {
+      "name": "Pasted image 20260129133929.png",
+      "basename": "Pasted image 20260129133929",
+      "relativePath": "research/mongotune/@/Pasted image 20260129133929.png"
+    },
+    {
+      "name": "Pasted image 20260129133959.png",
+      "basename": "Pasted image 20260129133959",
+      "relativePath": "research/mongotune/@/Pasted image 20260129133959.png"
+    },
+    {
+      "name": "Pasted image 20260129134010.png",
+      "basename": "Pasted image 20260129134010",
+      "relativePath": "research/mongotune/@/Pasted image 20260129134010.png"
+    },
+    {
+      "name": "Pasted image 20260129134048.png",
+      "basename": "Pasted image 20260129134048",
+      "relativePath": "research/mongotune/@/Pasted image 20260129134048.png"
+    },
+    {
+      "name": "Pasted image 20260129134152.png",
+      "basename": "Pasted image 20260129134152",
+      "relativePath": "research/mongotune/@/Pasted image 20260129134152.png"
+    },
+    {
+      "name": "Pasted image 20260129134444.png",
+      "basename": "Pasted image 20260129134444",
+      "relativePath": "research/mongotune/@/Pasted image 20260129134444.png"
+    },
+    {
+      "name": "Pasted image 20260129134511.png",
+      "basename": "Pasted image 20260129134511",
+      "relativePath": "research/mongotune/@/Pasted image 20260129134511.png"
+    },
+    {
+      "name": "Pasted image 20260129134533.png",
+      "basename": "Pasted image 20260129134533",
+      "relativePath": "research/mongotune/@/Pasted image 20260129134533.png"
+    },
+    {
+      "name": "Pasted image 20260129134549.png",
+      "basename": "Pasted image 20260129134549",
+      "relativePath": "research/mongotune/@/Pasted image 20260129134549.png"
+    },
+    {
+      "name": "Pasted image 20260129134613.png",
+      "basename": "Pasted image 20260129134613",
+      "relativePath": "research/mongotune/@/Pasted image 20260129134613.png"
+    },
+    {
+      "name": "Pasted image 20260129134722.png",
+      "basename": "Pasted image 20260129134722",
+      "relativePath": "research/mongotune/@/Pasted image 20260129134722.png"
+    },
+    {
+      "name": "Pasted image 20260129134843.png",
+      "basename": "Pasted image 20260129134843",
+      "relativePath": "research/mongotune/@/Pasted image 20260129134843.png"
+    },
+    {
+      "name": "Pasted image 20260129134859.png",
+      "basename": "Pasted image 20260129134859",
+      "relativePath": "research/mongotune/@/Pasted image 20260129134859.png"
+    },
+    {
+      "name": "Pasted image 20260129215345.png",
+      "basename": "Pasted image 20260129215345",
+      "relativePath": "research/mongotune/@/Pasted image 20260129215345.png"
+    },
+    {
+      "name": "Pasted image 20260129215542.png",
+      "basename": "Pasted image 20260129215542",
+      "relativePath": "research/mongotune/@/Pasted image 20260129215542.png"
+    },
+    {
+      "name": "Pasted image 20260131155855.png",
+      "basename": "Pasted image 20260131155855",
+      "relativePath": "research/mongotune/@/Pasted image 20260131155855.png"
+    },
+    {
+      "name": "Pasted image 20260131155907.png",
+      "basename": "Pasted image 20260131155907",
+      "relativePath": "research/mongotune/@/Pasted image 20260131155907.png"
+    },
+    {
+      "name": "image-1.png",
+      "basename": "image-1",
+      "relativePath": "research/mongotune/@/image-1.png"
+    },
+    {
+      "name": "image-12.png",
+      "basename": "image-12",
+      "relativePath": "research/mongotune/@/image-12.png"
+    },
+    {
+      "name": "image-3.png",
+      "basename": "image-3",
+      "relativePath": "research/mongotune/@/image-3.png"
+    },
+    {
+      "name": "image-4.png",
+      "basename": "image-4",
+      "relativePath": "research/mongotune/@/image-4.png"
+    },
+    {
+      "name": "image-5.png",
+      "basename": "image-5",
+      "relativePath": "research/mongotune/@/image-5.png"
+    },
+    {
+      "name": "image-6.png",
+      "basename": "image-6",
+      "relativePath": "research/mongotune/@/image-6.png"
+    },
+    {
+      "name": "image-7.png",
+      "basename": "image-7",
+      "relativePath": "research/mongotune/@/image-7.png"
+    },
+    {
+      "name": "image-8.png",
+      "basename": "image-8",
+      "relativePath": "research/mongotune/@/image-8.png"
+    },
+    {
+      "name": "image-9.png",
+      "basename": "image-9",
+      "relativePath": "research/mongotune/@/image-9.png"
+    },
+    {
+      "name": "image.png",
+      "basename": "image",
+      "relativePath": "research/mongotune/@/image.png"
+    },
+    {
+      "name": "DBB53B03-8CA8-47F8-84DD-46FBF454F932.png",
+      "basename": "DBB53B03-8CA8-47F8-84DD-46FBF454F932",
+      "relativePath": "research/realm/Attachments/DBB53B03-8CA8-47F8-84DD-46FBF454F932.png"
+    },
+    {
+      "name": "F9C9D8A3-53F8-4421-960A-3CED02C7235F.png",
+      "basename": "F9C9D8A3-53F8-4421-960A-3CED02C7235F",
+      "relativePath": "research/realm/Attachments/F9C9D8A3-53F8-4421-960A-3CED02C7235F.png"
+    },
+    {
+      "name": "0179009B-1B93-4D9E-9DAB-4ADE2C3296A9.png",
+      "basename": "0179009B-1B93-4D9E-9DAB-4ADE2C3296A9",
+      "relativePath": "projects/tsdiag/Archive/Attachments/0179009B-1B93-4D9E-9DAB-4ADE2C3296A9.png"
+    },
+    {
+      "name": "192AF3BE-0E93-48E0-9DA7-D99157A1B42A.png",
+      "basename": "192AF3BE-0E93-48E0-9DA7-D99157A1B42A",
+      "relativePath": "projects/tsdiag/Archive/Attachments/192AF3BE-0E93-48E0-9DA7-D99157A1B42A.png"
+    },
+    {
+      "name": "20EECFE9-4978-483E-93C2-FA9931385A6D.png",
+      "basename": "20EECFE9-4978-483E-93C2-FA9931385A6D",
+      "relativePath": "projects/tsdiag/Archive/Attachments/20EECFE9-4978-483E-93C2-FA9931385A6D.png"
+    },
+    {
+      "name": "2C5687C5-213D-447F-B288-A6914C8C0096.png",
+      "basename": "2C5687C5-213D-447F-B288-A6914C8C0096",
+      "relativePath": "projects/tsdiag/Archive/Attachments/2C5687C5-213D-447F-B288-A6914C8C0096.png"
+    },
+    {
+      "name": "2E6F167F-85EA-4A75-9210-59B8538F26B7.png",
+      "basename": "2E6F167F-85EA-4A75-9210-59B8538F26B7",
+      "relativePath": "projects/tsdiag/Archive/Attachments/2E6F167F-85EA-4A75-9210-59B8538F26B7.png"
+    },
+    {
+      "name": "2F916FBF-635E-4BDF-8693-E8CF99CA08E7.png",
+      "basename": "2F916FBF-635E-4BDF-8693-E8CF99CA08E7",
+      "relativePath": "projects/tsdiag/Archive/Attachments/2F916FBF-635E-4BDF-8693-E8CF99CA08E7.png"
+    },
+    {
+      "name": "58752E62-31EB-403B-9AD8-67855F753166.png",
+      "basename": "58752E62-31EB-403B-9AD8-67855F753166",
+      "relativePath": "projects/tsdiag/Archive/Attachments/58752E62-31EB-403B-9AD8-67855F753166.png"
+    },
+    {
+      "name": "6CBB2B1F-FF1C-47AD-BF5A-6A203575BFCB.png",
+      "basename": "6CBB2B1F-FF1C-47AD-BF5A-6A203575BFCB",
+      "relativePath": "projects/tsdiag/Archive/Attachments/6CBB2B1F-FF1C-47AD-BF5A-6A203575BFCB.png"
+    },
+    {
+      "name": "72DB689D-857E-43BC-BE0C-F4FCBA6F8DB7.png",
+      "basename": "72DB689D-857E-43BC-BE0C-F4FCBA6F8DB7",
+      "relativePath": "projects/tsdiag/Archive/Attachments/72DB689D-857E-43BC-BE0C-F4FCBA6F8DB7.png"
+    },
+    {
+      "name": "77C43CC6-977C-492B-AC4D-36C5DDA50DFE.png",
+      "basename": "77C43CC6-977C-492B-AC4D-36C5DDA50DFE",
+      "relativePath": "projects/tsdiag/Archive/Attachments/77C43CC6-977C-492B-AC4D-36C5DDA50DFE.png"
+    },
+    {
+      "name": "939D912A-A9D4-4E8E-81EB-C3B30E1F2802.png",
+      "basename": "939D912A-A9D4-4E8E-81EB-C3B30E1F2802",
+      "relativePath": "projects/tsdiag/Archive/Attachments/939D912A-A9D4-4E8E-81EB-C3B30E1F2802.png"
+    },
+    {
+      "name": "BC0C00C5-C7E0-4501-8D5F-E7393CBCDC64.png",
+      "basename": "BC0C00C5-C7E0-4501-8D5F-E7393CBCDC64",
+      "relativePath": "projects/tsdiag/Archive/Attachments/BC0C00C5-C7E0-4501-8D5F-E7393CBCDC64.png"
+    },
+    {
+      "name": "A0E5A696-5780-46F9-A5AD-CD4DCC7FF262.png",
+      "basename": "A0E5A696-5780-46F9-A5AD-CD4DCC7FF262",
+      "relativePath": "projects/tsdiag/Archive/Attachments/A0E5A696-5780-46F9-A5AD-CD4DCC7FF262.png"
+    },
+    {
+      "name": "C5FBEDE0-B15B-40BF-8763-58C611F17BAA.png",
+      "basename": "C5FBEDE0-B15B-40BF-8763-58C611F17BAA",
+      "relativePath": "projects/tsdiag/Archive/Attachments/C5FBEDE0-B15B-40BF-8763-58C611F17BAA.png"
+    },
+    {
+      "name": "C9A4C888-ADE2-4907-93B2-D658ECF15E1B.png",
+      "basename": "C9A4C888-ADE2-4907-93B2-D658ECF15E1B",
+      "relativePath": "projects/tsdiag/Archive/Attachments/C9A4C888-ADE2-4907-93B2-D658ECF15E1B.png"
+    },
+    {
+      "name": "DA7A491F-8FAE-442B-9212-0615A36513C4.png",
+      "basename": "DA7A491F-8FAE-442B-9212-0615A36513C4",
+      "relativePath": "projects/tsdiag/Archive/Attachments/DA7A491F-8FAE-442B-9212-0615A36513C4.png"
+    },
+    {
+      "name": "DAFDB85F-CBBB-4E75-8C42-C1778B164168.png",
+      "basename": "DAFDB85F-CBBB-4E75-8C42-C1778B164168",
+      "relativePath": "projects/tsdiag/Archive/Attachments/DAFDB85F-CBBB-4E75-8C42-C1778B164168.png"
+    },
+    {
+      "name": "E9428C25-197C-4245-8410-FCA172FE021B.png",
+      "basename": "E9428C25-197C-4245-8410-FCA172FE021B",
+      "relativePath": "projects/tsdiag/Archive/Attachments/E9428C25-197C-4245-8410-FCA172FE021B.png"
+    }
+  ]
+}

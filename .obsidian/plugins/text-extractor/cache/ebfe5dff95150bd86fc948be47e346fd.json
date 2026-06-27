@@ -1,0 +1,1 @@
+{"path":"research/mongotune/@/Pasted image 20260129134549.png","text":"Quick Reference: Default Behavior (8-core machine)\nStage\nStartup\nInitial\nDecrease\nIncrease\nRate\nNo limit\n64 conn/sec\nx0.95\n×1.05-1.30\nCondition\nFirst 60 seconds\nAfter warmup\nCPU idle < 10% AND conn rate > 16/sec\nConnections being limited AND CPU idle ≥ 20%\n","libVersion":"0.5.0","langs":""}

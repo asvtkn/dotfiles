@@ -1,0 +1,1 @@
+{"path":"@/Pasted Image 20260226164056_962.png","text":"source DB\nKafka\nJava app\ndestination DB\nactive -> historic\ndelete\ninsert\n- upsert: deleted\nnot found, inserted\n・・........\n・・・・・・・・・・・・・・\n・・・・・・・・・・・・・\ndestination DB\n→ updated existing\ndeleted\n","libVersion":"0.5.0","langs":""}

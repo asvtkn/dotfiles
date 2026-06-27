@@ -1,0 +1,14 @@
+{
+  "showUnsupportedFiles": true,
+  "spellcheck": false,
+  "vimMode": true,
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "foldIndent": true,
+  "showIndentGuide": false,
+  "attachmentFolderPath": "@",
+  "openBehavior": "",
+  "showInlineTitle": false,
+  "newFileLocation": "current"
+}

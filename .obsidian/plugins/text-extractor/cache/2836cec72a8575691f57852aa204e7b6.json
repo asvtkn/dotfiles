@@ -1,0 +1,1 @@
+{"path":"@/Pasted Image 20260507163227_874.png","text":"\"overload_thresholds\": {\n\"hold_duration_secs\": 10,\n\"read_dwell_time\": {\n\"per_ticket_micros\": 2000\n｝，\n\"write_dwell_time\": {\n\"per_ticket_micros\": 2000\n","libVersion":"0.5.0","langs":""}
