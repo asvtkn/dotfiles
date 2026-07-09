@@ -33,6 +33,7 @@ alias cm="cmatrix"
 alias gt="git log --oneline --graph --decorate --all"
 alias gq="git add -A && git commit -m \"changes\" && git push"
 alias activate="python3 -m venv venv && source venv/bin/activate"
+alias oc="opencode"
 
 # default editor
 export EDITOR="nvim"

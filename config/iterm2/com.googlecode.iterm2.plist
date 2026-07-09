@@ -716,7 +716,7 @@
 	<key>Default Bookmark Guid</key>
 	<string>F5848080-9310-4420-BF3D-B47F59253492</string>
 	<key>Default Browser Profile Guid</key>
-	<string>30C884AD-BFCB-4C88-BB53-284EE2B6B244</string>
+	<string>0BCF2D62-7F5A-4F64-9D4A-85DEAF419C2A</string>
 	<key>DisableFullscreenTransparency</key>
 	<false/>
 	<key>EnableAPIServer</key>
@@ -1037,7 +1037,7 @@
 	<key>HotkeyMigratedFromSingleToMulti</key>
 	<true/>
 	<key>LeftTabBarWidth</key>
-	<real>114</real>
+	<real>162</real>
 	<key>NaturalScrollingAffectsHorizontalMouseReporting</key>
 	<true/>
 	<key>NeverBlockSystemShutdown</key>
@@ -1055,6 +1055,18 @@
 		<dict>
 			<key>ASCII Anti Aliased</key>
 			<true/>
+			<key>AWDS Pane Directory</key>
+			<string></string>
+			<key>AWDS Pane Option</key>
+			<string>Recycle</string>
+			<key>AWDS Tab Directory</key>
+			<string></string>
+			<key>AWDS Tab Option</key>
+			<string>No</string>
+			<key>AWDS Window Directory</key>
+			<string></string>
+			<key>AWDS Window Option</key>
+			<string>No</string>
 			<key>Allow Title Setting</key>
 			<true/>
 			<key>Allow modifyOtherKeys</key>
@@ -1754,7 +1766,7 @@
 			<key>Custom Command</key>
 			<string>No</string>
 			<key>Custom Directory</key>
-			<string>No</string>
+			<string>Advanced</string>
 			<key>Default Bookmark</key>
 			<string>No</string>
 			<key>Description</key>
@@ -2072,6 +2084,18 @@
 			<true/>
 			<key>ASCII Ligatures</key>
 			<false/>
+			<key>AWDS Pane Directory</key>
+			<string></string>
+			<key>AWDS Pane Option</key>
+			<string>Recycle</string>
+			<key>AWDS Tab Directory</key>
+			<string></string>
+			<key>AWDS Tab Option</key>
+			<string>No</string>
+			<key>AWDS Window Directory</key>
+			<string></string>
+			<key>AWDS Window Option</key>
+			<string>No</string>
 			<key>Allow Paste Bracketing</key>
 			<true/>
 			<key>Allow modifyOtherKeys</key>
@@ -2813,7 +2837,7 @@
 			<key>Custom Command</key>
 			<string>No</string>
 			<key>Custom Directory</key>
-			<string>No</string>
+			<string>Advanced</string>
 			<key>Default Bookmark</key>
 			<string>No</string>
 			<key>Description</key>
@@ -5290,7 +5314,7 @@
 	<key>TabViewType</key>
 	<integer>0</integer>
 	<key>TabsHaveCloseButton</key>
-	<false/>
+	<true/>
 	<key>TmuxUsesDedicatedProfile</key>
 	<false/>
 	<key>UseBorder</key>
@@ -5302,7 +5326,7 @@
 	<key>WindowNumber</key>
 	<false/>
 	<key>com.apple.WebPrivacy.ResourceMonitorURLsVersion</key>
-	<string>qrsAAAGXnXBrwGxMO6s=</string>
+	<string>qrsAAAGeI2k9AODoQYs=</string>
 	<key>findMode_iTerm</key>
 	<integer>0</integer>
 	<key>kCPKSelectionViewPreferredModeKey</key>

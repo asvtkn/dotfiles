@@ -15,7 +15,7 @@ lsp_list = {
     "ts_ls",
     "clangd",
     "jqls",
-    "java_language_server"
+    -- "java_language_server"
 
     -- html (with emmet and autotag)
 }
